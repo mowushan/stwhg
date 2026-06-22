@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="page_title">汕头市文化馆 · 潮汕非物质文化遗产展示馆</title>
+  <meta name="description" content="国家一级文化馆，广东省首个市级非遗展示馆">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="home-page">
+
+  <div class="lang-bar">
+    <div class="container">
+      <button class="lang-btn active" data-lang="zh">中文</button>
+      <button class="lang-btn" data-lang="en">English</button>
+      <button class="lang-btn" data-lang="zh-hant">繁體</button>
+    </div>
+  </div>
+
+  <header class="site-header">
+    <div class="container">
+      <div class="logo">
+        <h1 data-i18n="logo_title">汕头市文化馆</h1>
+        <p class="subtitle" data-i18n="logo_subtitle">潮汕非物质文化遗产展示馆</p>
+      </div>
+      <button id="mobileMenuBtn" class="mobile-menu-btn" aria-label="菜单">☰</button>
+      <nav class="main-nav">
+        <a href="index.html" class="active" data-i18n="nav_home">首页</a>
+        <a href="floor1.html" data-i18n="nav_f1">一楼 · 乡音文脉</a>
+        <a href="floor2.html" data-i18n="nav_f2">二楼 · 南国雄风</a>
+        <a href="floor3.html" data-i18n="nav_f3">三楼 · 匠心万象</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="home-main">
+    <section class="hero-section">
+      <div class="hero-content">
+        <h2 class="hero-title" data-i18n="hero_title">潮韵千年 · 一馆尽览</h2>
+        <p class="hero-desc" data-i18n="hero_desc">国家一级文化馆 | 广东省首个市级非遗展示馆</p>
+      </div>
+    </section>
+
+    <section class="floor-entrance">
+      <div class="container">
+        <div class="entrance-card reveal-up" onclick="location.href='floor1.html'">
+          <div class="floor-badge">F1</div>
+          <h3 data-i18n="f1_title_short">乡音文脉</h3>
+          <p data-i18n="f1_desc_short">12项潮汕语言类非遗</p>
+          <div class="arrow">→</div>
+        </div>
+        
+        <div class="entrance-card reveal-up" onclick="location.href='floor2.html'">
+          <div class="floor-badge">F2</div>
+          <h3 data-i18n="f2_title_short">南国雄风</h3>
+          <p data-i18n="f2_desc_short">8项传统舞蹈非遗</p>
+          <div class="arrow">→</div>
+        </div>
+        
+        <div class="entrance-card reveal-up" onclick="location.href='floor3.html'">
+          <div class="floor-badge">F3</div>
+          <h3 data-i18n="f3_title_short">匠心万象</h3>
+          <p data-i18n="f3_desc_short">33项传统技艺非遗</p>
+          <div class="arrow">→</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="visit-guide">
+      <div class="container">
+        <h2 class="reveal-up" data-i18n="visit_title">参观信息</h2>
+        <div class="info-grid">
+          <div class="info-item reveal-up">
+            <strong data-i18n="visit_time_label">开放时间</strong>
+            <p data-i18n="visit_time_val">周二至周日 9:00-17:00（16:30停止入场）</p>
+          </div>
+          <div class="info-item reveal-up">
+            <strong data-i18n="visit_addr_label">场馆地址</strong>
+            <p data-i18n="visit_addr_val">金平区外马路149号（小公园历史文化街区）</p>
+          </div>
+          <div class="info-item reveal-up">
+            <strong data-i18n="visit_book_label">预约方式</strong>
+            <p data-i18n="visit_book_val">微信公众号"汕头市文化馆"免费预约</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p data-i18n="footer_copy">© 2026 汕头市文化馆 · 潮汕非物质文化遗产展示馆</p>
+      <p data-i18n="footer_info">地址：广东省汕头市金平区外马路149号 | 电话：0754-8827xxxx</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

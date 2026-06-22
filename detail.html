@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>展项详情 - 汕头市文化馆</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="detail-page">
+
+  <div class="lang-bar">
+    <div class="container">
+      <button class="lang-btn active" data-lang="zh">中文</button>
+      <button class="lang-btn" data-lang="en">English</button>
+      <button class="lang-btn" data-lang="zh-hant">繁體</button>
+    </div>
+  </div>
+
+  <header class="site-header">
+    <div class="container">
+      <div class="logo">
+        <h1>汕头市文化馆</h1>
+        <p class="subtitle">非遗展示馆</p>
+      </div>
+      <nav class="main-nav">
+        <a href="index.html">首页</a>
+        <a href="floor1.html">一楼 · 乡音</a>
+        <a href="floor2.html">二楼 · 雄风</a>
+        <a href="floor3.html">三楼 · 匠心</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="detail-main">
+    <div class="container">
+      <button class="back-btn" onclick="history.back()">← 返回展厅</button>
+      <div class="detail-container reveal-up" id="detailContent">
+        <div class="loading-state">正在加载展项信息...</div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2026 汕头市文化馆 · 潮汕非物质文化遗产展示馆</p>
+      <p>地址：广东省汕头市金平区外马路149号</p>
+    </div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

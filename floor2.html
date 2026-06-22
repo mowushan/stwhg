@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>二楼 · 南国雄风 - 汕头市文化馆</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="floor-page floor-2">
+
+  <div class="lang-bar">
+    <div class="container">
+      <button class="lang-btn active" data-lang="zh">中文</button>
+      <button class="lang-btn" data-lang="en">English</button>
+      <button class="lang-btn" data-lang="zh-hant">繁體</button>
+    </div>
+  </div>
+
+  <header class="site-header">
+    <div class="container">
+      <div class="logo">
+        <h1 data-i18n="logo_title">汕头市文化馆</h1>
+        <p class="subtitle" data-i18n="logo_subtitle">潮汕非物质文化遗产展示馆</p>
+      </div>
+      <button id="mobileMenuBtn" class="mobile-menu-btn" aria-label="菜单">☰</button>
+      <nav class="main-nav">
+        <a href="index.html" data-i18n="nav_home">首页</a>
+        <a href="floor1.html" data-i18n="nav_f1">一楼 · 乡音文脉</a>
+        <a href="floor2.html" class="active" data-i18n="nav_f2">二楼 · 南国雄风</a>
+        <a href="floor3.html" data-i18n="nav_f3">三楼 · 匠心万象</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="floor-main">
+    <section class="floor-hero">
+      <div class="container reveal-up">
+        <span class="floor-tag">FLOOR 02</span>
+        <h1 class="floor-title" data-i18n="f2_title">二楼 · 南国雄风</h1>
+        <p class="floor-desc" data-i18n="f2_desc">英歌舞、蜈蚣舞、麒麟舞……感受潮汕大地最磅礴的节庆力量。本层共收录 8 项传统舞蹈与民俗类非物质文化遗产。</p>
+      </div>
+    </section>
+
+    <section class="exhibit-list-section">
+      <div class="container">
+        <div class="exhibit-grid" id="exhibitGrid"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p data-i18n="footer_copy">© 2026 汕头市文化馆 · 潮汕非物质文化遗产展示馆</p>
+      <p data-i18n="footer_info">地址：广东省汕头市金平区外马路149号 | 电话：0754-8827xxxx</p>
+    </div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
