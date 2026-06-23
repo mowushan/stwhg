@@ -49,30 +49,30 @@ function translatePage(lang) {
 
 const I18N_TEXTS = {
   // === 首页专属词条 ===
-  page_title: { zh: '汕头市文化馆 · 潮汕非物质文化遗产展示馆', en: 'Shantou Cultural Center · Chaoshan ICH Exhibition Hall', 'zh-hant': '汕頭市文化館 · 潮汕非物質文化遺產展示館' },
+  page_title: { zh: '汕头市文化馆 · 潮汕非物质文化遗产展示馆', en: 'Shantou Cultural Center · Chaoshan Intangible Culture Heritage Exhibition Hall', 'zh-hant': '汕頭市文化館 · 潮汕非物質文化遺產展示館' },
   logo_title: { zh: '汕头市文化馆', en: 'Shantou Cultural Center', 'zh-hant': '汕頭市文化館' },
-  logo_subtitle: { zh: '潮汕非物质文化遗产展示馆', en: 'Chaoshan ICH Exhibition Hall', 'zh-hant': '潮汕非物質文化遺產展示館' },
+  logo_subtitle: { zh: '潮汕非物质文化遗产展示馆', en: 'Chaoshan Intangible Culture Heritage Exhibition Hall', 'zh-hant': '潮汕非物質文化遺產展示館' },
   nav_home: { zh: '首页', en: 'Home', 'zh-hant': '首頁' },
   nav_f1: { zh: '一楼 · 乡音文脉', en: '1F · Voices of Heritage', 'zh-hant': '一樓 · 鄉音文脈' },
   nav_f2: { zh: '二楼 · 南国雄风', en: '2F · Spirits of the South', 'zh-hant': '二樓 · 南國雄風' },
   nav_f3: { zh: '三楼 · 匠心万象', en: '3F · Artisan Masterpieces', 'zh-hant': '三樓 · 匠心萬象' },
   hero_title: { zh: '潮韵千年 · 一馆尽览', en: 'Millennium Charm · All in One Museum', 'zh-hant': '潮韻千年 · 一館盡覽' },
-  hero_desc: { zh: '国家一级文化馆 | 广东省首个市级非遗展示馆', en: 'National First-Class Center | Guangdong\'s First Municipal ICH Hall', 'zh-hant': '國家一級文化館 | 廣東省首個市級非遺展示館' },
+  hero_desc: { zh: '国家一级文化馆 | 广东省首个市级非遗展示馆', en: 'National First-Class Center | Guangdong\'s Intangible Culture Heritage Exhibition Hall', 'zh-hant': '國家一級文化館 | 廣東省首個市級非遺展示館' },
   
   f1_title_short: { zh: '乡音文脉', en: 'Voices of Heritage', 'zh-hant': '鄉音文脈' },
   f1_desc_short: { zh: '12项潮汕语言类非遗', en: '12 Language & Performance Heritages', 'zh-hant': '12項潮汕語言類非遺' },
   f2_title_short: { zh: '南国雄风', en: 'Spirits of the South', 'zh-hant': '南國雄風' },
   f2_desc_short: { zh: '8项传统舞蹈非遗', en: '8 Traditional Dance Heritages', 'zh-hant': '8項傳統舞蹈非遺' },
   f3_title_short: { zh: '匠心万象', en: 'Artisan Masterpieces', 'zh-hant': '匠心萬象' },
-  f3_desc_short: { zh: '25项传统技艺非遗', en: '25 Traditional Craft Heritages', 'zh-hant': '25項傳統技藝非遺' },
+  f3_desc_short: { zh: '30项传统技艺非遗', en: '30 Traditional Craft Heritages', 'zh-hant': '30項傳統技藝非遺' },
   
   visit_title: { zh: '参观信息', en: 'Visitor Information', 'zh-hant': '參觀資訊' },
   visit_time_label: { zh: '开放时间', en: 'Opening Hours', 'zh-hant': '開放時間' },
   visit_time_val: { zh: '周二至周日 9:00-17:00（16:30停止入场）', en: 'Tue-Sun 9:00-17:00 (Last entry 16:30)', 'zh-hant': '週二至週日 9:00-17:00（16:30停止入場）' },
   visit_addr_label: { zh: '场馆地址', en: 'Address', 'zh-hant': '場館地址' },
-  visit_addr_val: { zh: '金平区外马路149号（小公园历史文化街区）', en: 'No.149 Waima Rd, Jinping (Xiaogongyuan Area)', 'zh-hant': '金平區外馬路149號（小公園歷史文化街區）' },
+  visit_addr_val: { zh: '金平区外马路149号（小公园历史文化街区）', en: 'No.149 Waima Rd, Jinping District (Small Park Historic & Cultural Block)', 'zh-hant': '金平區外馬路149號（小公園歷史文化街區）' },
   visit_book_label: { zh: '预约方式', en: 'Reservation', 'zh-hant': '預約方式' },
-  visit_book_val: { zh: '微信公众号"汕头市文化馆"免费预约', en: 'Free via WeChat "Shantou Cultural Center"', 'zh-hant': '微信公眾號「汕頭市文化館」免費預約' },
+  visit_book_val: { zh: '微信公众号"汕头市文化馆"免费预约', en: 'Free via WeChat Official Account - Shantou"', 'zh-hant': '微信公眾號「汕頭市文化館」免費預約' },
   footer_copy: { zh: '© 2026 汕头市文化馆 · 潮汕非物质文化遗产展示馆', en: '© 2026 Shantou Cultural Center · Chaoshan ICH Hall', 'zh-hant': '© 2026 汕頭市文化館 · 潮汕非物質文化遺產展示館' },
   footer_info: { zh: '地址：广东省汕头市金平区外马路149号 | 电话：0754-8827xxxx', en: 'Addr: No.149 Waima Rd, Shantou | Tel: 0754-8827xxxx', 'zh-hant': '地址：廣東省汕頭市金平區外馬路149號 | 電話：0754-8827xxxx' },
 
@@ -82,7 +82,7 @@ const I18N_TEXTS = {
   f2_title: { zh: '二楼 · 南国雄风', en: 'Floor 2 · Spirits of the South', 'zh-hant': '二樓 · 南國雄風' },
   f2_desc: { zh: '英歌舞、蜈蚣舞、麒麟舞……感受潮汕大地最磅礴的节庆力量。本层共收录 8 项传统舞蹈与民俗类非物质文化遗产。', en: 'Yingge Dance, Centipede Dance… Feel the majestic festive power of Chaoshan. 8 traditional dance items.', 'zh-hant': '英歌舞、蜈蚣舞、麒麟舞……感受潮汕大地最磅礡的節慶力量。本層共收錄 8 項傳統舞蹈與民俗類非物質文化遺產。' },
   f3_title: { zh: '三楼 · 匠心万象', en: 'Floor 3 · Artisan Masterpieces', 'zh-hant': '三樓 · 匠心萬象' },
-  f3_desc: { zh: '木雕、潮绣、嵌瓷、潮菜……33项非遗技艺，一座潮汕生活百科全书。本层全面展示潮汕人的衣食住行与民间智慧。', en: 'Woodcarving, Embroidery, Porcelain Mosaic… 33 craft items showcasing the encyclopedia of Chaoshan life.', 'zh-hant': '木雕、潮繡、嵌瓷、潮菜……33項非遺技藝，一座潮汕生活百科全書。本層全面展示潮汕人的衣食住行與民間智慧。' }
+  f3_desc: { zh: '木雕、潮绣、嵌瓷、潮菜……30项非遗技艺，一座潮汕生活百科全书。本层全面展示潮汕人的衣食住行与民间智慧。', en: 'Woodcarving, Embroidery, Porcelain Mosaic… 30 craft items showcasing the encyclopedia of Chaoshan life.', 'zh-hant': '木雕、潮繡、嵌瓷、潮菜……30項非遺技藝，一座潮汕生活百科全書。本層全面展示潮汕人的衣食住行與民間智慧。' }
 };
 
 /* ==========  列表页渲染 ========== */
