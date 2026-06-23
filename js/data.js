@@ -5,17 +5,17 @@ window.EXHIBIT_DATA = [
   // ================= 一楼：乡音文脉 =================
   {
     id: 'f1-01',
-    floor: 1,
-    name: { zh: '潮剧', en: 'Chaozhou Opera', 'zh-hant': '潮劇' },
-    desc: { zh: '南国奇葩，五百余年辉煌的潮汕本土戏曲。', en: 'A unique local opera with over 500 years of history in Chaoshan.', 'zh-hant': '南國奇葩，五百餘年輝煌的潮汕本土戲曲。' },
-    level: { zh: '国家级', en: 'National', 'zh-hant': '國家級' },
-    region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
-    image: 'images/f1/chaoju.jpg',
-    detail: {
-      zh: '展厅内华美的戏服与精致的头饰，无声诉说着潮剧五百余年的辉煌。作为潮汕大地孕育出的唯一本土戏曲剧种，潮剧以潮汕方言演唱，唱腔温润婉转，素有“南国奇葩”之美誉。百年前，潮剧戏班随侨船出海，至今仍是海外潮汕人心中最深的“家乡声音”。',
-      en: 'The gorgeous costumes and exquisite headdresses in the hall silently tell the 500-year glory of Chaozhou Opera. As the only local opera born in Chaoshan, it is sung in the Chaoshan dialect with a warm and gentle melody, known as the "Rare Flower of the South." It traveled overseas with ancestors and remains the deepest "voice of hometown" for Chaoshan people abroad.',
-      'zh-hant': '展廳內華美的戲服與精緻的頭飾，無聲訴說著潮劇五百餘年的輝煌。作為潮汕大地孕育出的唯一本土戲曲劇種，潮劇以潮汕方言演唱，唱腔溫潤婉轉，素有「南國奇葩」之美譽。百年前，潮劇戲班隨僑船出海，至今仍是海外潮汕人心中最深的「家鄉聲音」。'
-    }
+  floor: 1,
+  name: { zh: '潮剧', en: 'Teochew Opera', 'zh-hant': '潮劇' },
+  desc: { zh: '南国奇葩，五百余年辉煌的潮汕本土戏曲。', en: 'A unique local opera with over 500 years of history in Chaoshan.', 'zh-hant': '南國奇葩，五百餘年輝煌的潮汕本土戲曲。' },
+  level: { zh: '国家级', en: 'National Level', 'zh-hant': '國家級' },
+  region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
+  image: 'images/f1/chaoju.jpg',
+  detail: {
+    zh: '展厅内华美的戏服与精致的头饰，无声诉说着潮剧五百余年的辉煌。作为潮汕大地孕育出的唯一本土戏曲剧种，潮剧以潮汕方言演唱，唱腔温润婉转，素有“南国奇葩”之美誉。百年前，潮剧戏班随侨船出海，至今仍是海外潮汕人心中最深的“家乡声音”。',
+    en: 'The gorgeous costumes and exquisite headdresses in the hall silently tell the 500-year glory of Teochew Opera. As the only local opera born in Chaoshan, it is sung in the Teochew dialect with a warm and gentle melody, known as the "Rare Flower of the South." It traveled overseas with ancestors and remains the deepest "voice of hometown" for Chaoshan people abroad.',
+    'zh-hant': '展廳內華美的戲服與精緻的頭飾，無聲訴說著潮劇五百餘年的輝煌。作為潮汕大地孕育出的唯一本土戲曲劇種，潮劇以潮汕方言演唱，唱腔溫潤婉轉，素有「南國奇葩」之美譽。百年前，潮劇戲班隨僑船出海，至今仍是海外潮汕人心中最深的「家鄉聲音」。'
+  }
   },
   {
     id: 'f1-02',
@@ -41,70 +41,70 @@ window.EXHIBIT_DATA = [
     image: 'images/f1/gece.jpg',
     detail: {
       zh: '潮州歌册是潮汕独有的方言说唱文学，以七言韵文为载体，通俗易懂，被誉为“潮汕女性的口头教科书”。旧时潮汕女性识字率不高，歌册便成为她们最重要的启蒙读物。在海外，祖母或母亲常以歌册传唱故土故事与家训美德，让后辈在歌声中牢记潮汕淳朴家风。',
-      en: 'Chaozhou Songbook is a unique Chaoshan dialect storytelling art in seven-character rhymed verses, known as the "oral textbook for Chaoshan women." In the past, when female literacy was low, it served as their primary启蒙 (enlightenment) material. Overseas, grandmothers and mothers pass down hometown stories and family virtues through these songs, ensuring the younger generation remembers their淳朴 (simple and honest) family traditions.',
+      en: 'Chaozhou Songbook is a unique Chaoshan dialect storytelling art in seven-character rhymed verses, known as the "oral textbook for Chaoshan women." In the past, when female literacy was low, it served as their primary enlightenment material. Overseas, grandmothers and mothers pass down hometown stories and family virtues through these songs, ensuring the younger generation remembers their simple and honest family traditions.',
       'zh-hant': '潮州歌冊是潮汕獨有的方言說唱文學，以七言韻文為載體，通俗易懂，被譽為「潮汕女性的口頭教科書」。舊時潮汕女性識字率不高，歌冊便成為她們最重要的啟蒙讀物。在海外，祖母或母親常以歌冊傳唱故土故事與家訓美德，讓後輩在歌聲中牢記潮汕淳樸家風。'
     }
   },
   {
     id: 'f1-04',
-    floor: 1,
-    name: { zh: '汕头工夫茶艺', en: 'Shantou Gongfu Tea Art', 'zh-hant': '汕頭工夫茶藝' },
-    desc: { zh: '潮汕最具标志性的生活礼仪，全球潮人的文化纽带。', en: 'The most iconic Chaoshan etiquette and a cultural bond for Chaoshan people worldwide.', 'zh-hant': '潮汕最具標誌性的生活禮儀，全球潮人的文化紐帶。' },
-    level: { zh: '省级', en: 'Provincial', 'zh-hant': '省級' },
-    region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
-    image: 'images/f1/gongfu-tea.jpg',
-    detail: {
-      zh: '工夫茶是潮汕最具标志性的生活礼仪文化，讲究“和、敬、精、洁、思”五大茶道精神。在潮汕，无论贫富、不分场合，工夫茶是待人接物的第一礼节。“有潮汕人的地方，就有工夫茶”，无论身在纽约还是巴黎，一壶工夫茶便是故土缩影，是侨胞待客联谊的最高礼节。',
-      en: 'Gongfu Tea is the most iconic Chaoshan etiquette, emphasizing the five spirits of "Harmony, Respect, Excellence, Purity, and Thoughtfulness." In Chaoshan, it is the first courtesy in social interactions regardless of wealth or occasion. "Where there are Chaoshan people, there is Gongfu Tea." Whether in New York or Paris, a pot of Gongfu Tea is a microcosm of the homeland and the highest courtesy for hospitality.',
-      'zh-hant': '工夫茶是潮汕最具標誌性的生活禮儀文化，講究「和、敬、精、潔、思」五大茶道精神。在潮汕，無論貧富、不分場合，工夫茶是待人接物的第一禮節。「有潮汕人的地方，就有工夫茶」，無論身在紐約還是巴黎，一壺工夫茶便是故土縮影，是僑胞待客聯誼的最高禮節。'
-    }
+  floor: 1,
+  name: { zh: '工夫茶', en: 'Teochew Kung Fu Tea', 'zh-hant': '工夫茶' },
+  desc: { zh: '中国茶道活化石，潮汕人待客礼仪与生活哲学的集中体现。', en: 'A living fossil of Chinese tea ceremony, embodying Chaoshan hospitality and life philosophy.', 'zh-hant': '中國茶道活化石，潮汕人待客禮儀與生活哲學的集中體現。' },
+  level: { zh: '国家级', en: 'National Level', 'zh-hant': '國家級' },
+  region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
+  image: 'images/f1/gongfu-tea.jpg',
+  detail: {
+    zh: '潮汕工夫茶是中国茶道的活化石，以乌龙茶为主要茶类，讲究“高冲低洒、刮沫淋盖、关公巡城、韩信点兵”等独特冲泡技艺。它不仅是日常饮品，更是潮汕人待客礼仪、社交文化与生活哲学的集中体现。',
+    en: 'Teochew Kung Fu Tea is a living fossil of Chinese tea ceremony, primarily using oolong tea. It emphasizes unique brewing techniques such as "high pouring and low dispensing, scraping foam and rinsing the lid, Guan Gong patrolling the city, and Han Xin counting troops". Beyond being a daily beverage, it embodies the hospitality etiquette, social culture, and life philosophy of the Chaoshan people.',
+    'zh-hant': '潮汕工夫茶是中國茶道的活化石，以烏龍茶為主要茶類，講究「高沖低灑、刮沫淋蓋、關公巡城、韓信點兵」等獨特沖泡技藝。它不僅是日常飲品，更是潮汕人待客禮儀、社交文化與生活哲學的集中體現。'
+  }
   },
   {
     id: 'f1-05',
     floor: 1,
-    name: { zh: '潮汕出花园习俗', en: 'Chu Huayuan (Coming of Age)', 'zh-hant': '潮汕出花園習俗' },
-    desc: { zh: '潮汕独有的成人礼，寓意独占鳌头、知礼担责。', en: 'A unique Chaoshan coming-of-age ceremony, symbolizing success and responsibility.', 'zh-hant': '潮汕獨有的成人禮，寓意獨占鰲頭、知禮擔責。' },
-    level: { zh: '市级', en: 'Municipal', 'zh-hant': '市級' },
+    name: { zh: '出花园', en: 'Chu Huayuan', 'zh-hant': '出花園' },
+    desc: { zh: '潮汕独有成人礼，寓意跳出花园步入成年。', en: 'A unique Chaoshan coming-of-age ceremony symbolizing the transition to adulthood.', 'zh-hant': '潮汕獨有成人禮，寓意跳出花園步入成年。' },
+    level: { zh: '省级', en: 'Provincial Level', 'zh-hant': '省級' },
     region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
     image: 'images/f1/chu-huayuan.jpg',
     detail: {
-      zh: '“出花园”是潮汕独有的成人礼习俗，专为虚岁十五岁的少年举办。少年身穿新衣、脚踩红木屐，祭拜公婆神，咬鸡头寓意“独占鳌头”。这一习俗完整传承于全球潮汕侨社，让身在异国的新生代铭记潮汕礼仪文化，是潮汕人“根在故土、花开天下”的生动写照。',
-      en: '"Chu Huayuan" (Leaving the Garden) is a unique Chaoshan coming-of-age ceremony for 15-year-olds. The youth wear new clothes and red wooden clogs, worship the deities, and bite a chicken head to symbolize "coming out on top." This custom is fully preserved in Chaoshan communities worldwide, helping the younger generation remember their roots and rituals.',
-      'zh-hant': '「出花園」是潮汕獨有的成人禮習俗，專為虛歲十五歲的少年舉辦。少年身穿新衣、腳踩紅木屐，祭拜公婆神，咬雞頭寓意「獨占鰲頭」。這一習俗完整傳承於全球潮汕僑社，讓身在異國的新生代銘記潮汕禮儀文化，是潮汕人「根在故土、花開天下」的生動寫照。'
+      zh: '“出花园”是潮汕地区独有的成人礼习俗，通常在孩子年满十五岁时举行。仪式包括穿红木屐、咬鸡头、跳竹筛等环节，寓意孩子跳出花园围墙，告别童年，正式步入成年社会，承担家庭与社会责任。',
+      en: 'Chu Huayuan is a unique coming-of-age ceremony in the Chaoshan region, typically held when a child turns fifteen. The ritual includes wearing red wooden clogs, biting a chicken head, and jumping over a bamboo sieve, symbolizing the child leaping over the garden wall, bidding farewell to childhood, and officially entering adulthood to assume family and social responsibilities.',
+      'zh-hant': '「出花園」是潮汕地區獨有的成人禮習俗，通常在孩子年滿十五歲時舉行。儀式包括穿紅木屐、咬雞頭、跳竹篩等環節，寓意孩子跳出花園圍牆，告別童年，正式步入成年社會，承擔家庭與社會責任。'
     }
-  },
+},
   {
     id: 'f1-06',
     floor: 1,
-    name: { zh: '潮汕话（汕头方言文化）', en: 'Chaoshan Dialect (Shantou Dialect Culture)', 'zh-hant': '潮汕話（汕頭方言文化）' },
+    name: { zh: '潮汕话（汕头方言文化）', en: 'Chaoshan Dialect (Chaoshan Dialect Culture)', 'zh-hant': '潮汕話（汕頭方言文化）' },
     desc: { zh: '古汉语的活化石，海外潮汕族群团结共生的核心标识。', en: 'A living fossil of ancient Chinese, the core identifier of overseas Chaoshan communities.', 'zh-hant': '古漢語的活化石，海外潮汕族群團結共生的核心標識。' },
     level: { zh: '方言文化保护项目', en: 'Dialect Culture Protection Project', 'zh-hant': '方言文化保護項目' },
     region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
     image: 'images/f1/chaoshan-dialect.jpg',
     detail: {
       zh: '潮汕话是中国最古老的汉语方言之一，保留着大量中古乃至上古汉语的词汇与发音，拥有八个声调，被语言学界誉为“古汉语的活化石”。它是潮汕文化的根基，潮剧、歌册、讲古皆依此而生。“宁卖祖宗田，不忘祖宗言”，这句古训是历代海外潮汕人坚守的信条。无论移居几代、身处何国，潮汕人世代传承方言，以乡音识别同族。在全球各地的同乡会，潮汕话是通行的“暗号”——一声“胶己人”（自己人），便可跨越万里、瞬间拉近距离，这是海外潮汕族群团结共生的核心标识。',
-      en: 'The Chaoshan dialect is one of the oldest Chinese dialects, retaining a vast amount of medieval and ancient Chinese vocabulary and pronunciation. With eight tones, it is hailed by linguists as a "living fossil of ancient Chinese." It is the foundation of Chaoshan culture. The old motto "Rather sell ancestral land than forget ancestral words" is坚守 (adhered to) by overseas Chaoshan people. A simple "Gaginang" (our own people) bridges万里 (thousands of miles), serving as the core identifier of unity for the global Chaoshan community.',
-      'zh-hant': '潮汕話是中國最古老的漢語方言之一，保留著大量中古乃至上古漢語的詞彙與發音，擁有八個聲調，被語言學界譽為「古漢語的活化石」。它是潮汕文化的根基，潮劇、歌冊、講古皆依此而生。「寧賣祖宗田，不忘祖宗言」，這句古訓是歷代海外潮汕人堅守的信條。無論移居幾代、身處何國，潮汕人世代傳承方言，以鄉音識別同族。在全球各地的同鄉會，潮汕話是通行的「暗號」——一聲「膠己人」（自己人），便可跨越萬里、瞬間拉近距離，這是海外潮汕族群團結共生的核心標識。'
+      en: 'The Chaoshan dialect is one of the oldest Chinese dialects, retaining a vast amount of medieval and ancient Chinese vocabulary and pronunciation. With eight tones, it is hailed by linguists as a "living fossil of ancient Chinese." It is the foundation of Chaoshan culture. The old motto "Rather sell ancestral land than forget ancestral words" is adhered to by overseas Chaoshan people. A simple "Gaginang" (our own people) bridges thousands of miles, serving as the core identifier of unity for the global Chaoshan community.',
+      'zh-hant': '潮汕話是中國最古老的漢語方言之一，保留著大量中古乃至上古漢語的詞彙與發音，擁有八個聲調，被語言學界譽為「古漢語活化石」。它是潮汕文化的根基，潮劇、歌冊、講古皆依此而生。「寧賣祖宗田，不忘祖宗言」，這句古訓是歷代海外潮汕人堅守的信條。無論移居幾代、身處何國，潮汕人世代傳承方言，以鄉音識別同族。在全球各地的同鄉會，潮汕話是通行的「暗號」——一聲「膠己人」（自己人），便可跨越萬里、瞬間拉近距離，這是海外潮汕族群團結共生的核心標識。'
     }
-  },
+},
   {
     id: 'f1-07',
-    floor: 1,
-    name: { zh: '潮头讲古', en: 'Chaotou Storytelling', 'zh-hant': '潮頭講古' },
-    desc: { zh: '潮汕版“评书”，延续民间文化传播脉络的市井文娱。', en: 'The Chaoshan version of "storytelling," a folk entertainment continuing cultural lineage.', 'zh-hant': '潮汕版「評書」，延續民間文化傳播脈絡的市井文娛。' },
-    level: { zh: '市级', en: 'Municipal', 'zh-hant': '市級' },
-    region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
-    image: 'images/f1/jianggu.jpg',
-    detail: {
-      zh: '“讲古”是潮汕传统民间说书艺术，相当于潮汕版的“评书”。艺人以纯正潮汕方言，在榕树下、骑楼间讲述民间传说与英雄故事，语言生动、节奏感极强，是旧时潮汕市井最受欢迎的日常文娱。在文娱资源匮乏的旧时海外侨社，讲古艺人的乡土故事，是海外侨胞了解家乡风土人情、追忆故土岁月的重要途径。许多老华侨回忆，童年最开心的事便是围着讲古先生听潮汕的故事。讲古不仅传递信息，更延续着潮汕民间文化的传播脉络，让远离故土的潮汕人始终与家乡保持精神连接。',
-      en: '"Jianggu" is the traditional Chaoshan folk storytelling art, equivalent to the northern Chinese "Pingshu." Artists use the pure Chaoshan dialect to tell folk legends and heroic stories under banyan trees or in arcades. In overseas communities lacking entertainment, these local stories were a vital way for expatriates to learn about hometown customs and recall past years, maintaining a spiritual connection with their homeland.',
-      'zh-hant': '「講古」是潮汕傳統民間說書藝術，相當於潮汕版的「評書」。藝人以純正潮汕方言，在榕樹下、騎樓間講述民間傳說與英雄故事，語言生動、節奏感極強，是舊時潮汕市井最受歡迎的日常文娛。在文娛資源匱乏的舊時海外僑社，講古藝人的鄉土故事，是海外僑胞了解家鄉風土人情、追憶故土歲月的重要途徑。許多老華僑回憶，童年最開心的事便是圍著講古先生聽潮汕的故事。講古不僅傳遞信息，更延續著潮汕民間文化的傳播脈絡，讓遠離故土的潮汕人始終與家鄉保持精神連接。'
-    }
+  floor: 1,
+  name: { zh: '汕头讲古', en: 'Shantou Storytelling', 'zh-hant': '汕頭講古' },
+  desc: { zh: '潮汕方言口头表演艺术，演绎百态人生。', en: 'An oral performing art in Teochew dialect depicting diverse life stories.', 'zh-hant': '潮汕方言口頭表演藝術，演繹百態人生。' },
+  level: { zh: '市级', en: 'Municipal Level', 'zh-hant': '市級' },
+  region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
+  image: 'images/f1/jianggu.jpg',
+  detail: {
+    zh: '汕头讲古是以潮汕方言讲述历史故事、民间传说与时事评述的口头表演艺术。艺人仅凭一张桌、一把扇、一块醒木，通过抑扬顿挫的语言和丰富的肢体动作演绎百态人生，是潮汕民间最受欢迎的曲艺形式之一。',
+    en: 'Shantou Storytelling is an oral performing art that narrates historical tales, folk legends, and current affairs commentary in the Teochew dialect. With only a table, a fan, and a wooden clapper, the artist brings diverse life stories to life through rhythmic speech and expressive gestures, making it one of the most beloved folk quyi arts in Chaoshan.',
+    'zh-hant': '汕頭講古是以潮汕方言講述歷史故事、民間傳說與時事評述的口頭表演藝術。藝人僅憑一張桌、一把扇、一塊醒木，通過抑揚頓挫的語言和豐富的肢體動作演繹百態人生，是潮汕民間最受歡迎的曲藝形式之一。'
+  }
   },
   {
     id: 'f1-08',
     floor: 1,
-    name: { zh: '汕头民谣', en: 'Shantou Folk Songs', 'zh-hant': '汕頭民謠' },
+    name: { zh: '汕头民谣', en: 'Shantou Folk Ballad', 'zh-hant': '汕頭民謠' },
     desc: { zh: '刻在侨胞记忆深处的家乡味道，维系新生代的情感联结。', en: 'The hometown flavor engraved in the memory of overseas Chinese, linking the new generation.', 'zh-hant': '刻在僑胞記憶深處的家鄉味道，維繫新生代的情感聯結。' },
     level: { zh: '民间文学保护项目', en: 'Folk Literature Protection Project', 'zh-hant': '民間文學保護項目' },
     region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
@@ -112,37 +112,37 @@ window.EXHIBIT_DATA = [
     detail: {
       zh: '“月光光，秀才郎，骑白马，过南塘……”几乎每个潮汕人都能哼唱的汕头民谣，包含童谣、节庆歌谣与乡情小调，旋律简单、朗朗上口，记录着潮汕孩童的天真生活与市井百态。无数海外潮汕人的童年，伴随着这些民谣长大。无论身在何方，只要听到那首“月光光”，便会瞬间被拉回故乡的庭院与骑楼。简单的乡音歌谣是刻在侨胞记忆深处的家乡味道，许多海外潮汕幼儿园专门教授潮汕民谣，让乡音从娃娃抓起，维系着海外新生代与故土的情感联结。',
       en: '"Moonlight bright, scholar boy..." Almost every Chaoshan person can hum Shantou folk songs, which include nursery rhymes and festive ballads. Simple and catchy, they record the innocent life of Chaoshan children. Countless overseas Chaoshan people grew up with these songs. Hearing "Moonlight bright" instantly brings them back to hometown courtyards. Many overseas Chaoshan kindergartens specifically teach these songs to maintain the emotional bond between the new generation and their homeland.',
-      'zh-hant': '「月光光，秀才郎，騎白馬，過南塘……」幾乎每個潮汕人都能哼唱的汕頭民謠，包含童謠、節慶歌謠與鄉情小調，旋律簡單、朗朗上口，記錄著潮汕孩童的天真生活與市井百態。無數海外潮汕人的童年，伴隨著這些民謠長大。無論身在何方，只要聽到那首「月光光」，便會瞬間被拉回故鄉的庭院與騎樓。簡單的鄉音歌謠是刻在僑胞記憶深處的家鄉味道，許多海外潮汕幼兒園專門教授潮汕民謠，讓鄉音從娃娃抓起，維繫著海外新生代與故土的情感聯結。'
+      'zh-hant': '「月光光，秀才郎，騎白馬，過南塘……」幾乎每個潮汕人都能哼唱的汕頭民謠，包含童謠、節慶歌謠與鄉情小調，旋律簡單、朗朗上口，記錄著潮汕孩童的天真生活與市井百態。無論身在何方，只要聽到那首「月光光」，便會瞬間被拉回故鄉的庭院與騎樓。簡單的鄉音歌謠是刻在僑胞記憶深處的家鄉味道，許多海外潮汕幼兒園專門教授潮汕民謠，讓鄉音從娃娃抓起，維繫著海外新生代與故土的情感聯結。'
     }
-  },
+},
   {
     id: 'f1-09',
     floor: 1,
-    name: { zh: '汕头手打牛肉丸制作技艺', en: 'Shantou Hand-beaten Beef Ball Making', 'zh-hant': '汕頭手打牛肉丸製作技藝' },
-    desc: { zh: '能当乒乓球弹起的极致口感，一碗浓浓的乡愁。', en: 'The ultimate bouncy texture, serving as a bowl of thick nostalgia.', 'zh-hant': '能當乒乓球彈起的極致口感，一碗濃濃的鄉愁。' },
-    level: { zh: '市级', en: 'Municipal', 'zh-hant': '市級' },
+    name: { zh: '手打牛肉丸', en: 'Hand-beaten Beef Ball', 'zh-hant': '手打牛肉丸' },
+    desc: { zh: '潮汕标志性美食，手工捶打的极致口感。', en: 'An iconic Chaoshan delicacy with ultimate texture from hand-pounding.', 'zh-hant': '潮汕標誌性美食，手工捶打的極致口感。' },
+    level: { zh: '省级', en: 'Provincial Level', 'zh-hant': '省級' },
     region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
-    image: 'images/f1/beef-ball.jpg',
+    image: 'images/f1/niurouwan.jpg',
     detail: {
-      zh: '选用新鲜牛腿肉，以特制铁棒反复捶打数十分钟直至肉质起胶，手工挤丸、文火慢煮，汕头手打牛肉丸以紧实弹嫩、“能当乒乓球弹起”的极致口感，成为潮汕美食最具代表性的名片。这道工序繁琐的匠心美食随华侨传遍全球，成为海外潮汕餐馆的招牌。从曼谷到悉尼、从多伦多到约翰内斯堡，凡是有潮汕人开设的餐厅，必有手打牛肉丸。一碗热腾腾的牛肉丸汤，是无数侨胞慰藉乡愁、回味家乡烟火气的必备美味，它不只是一种食物，更是一碗浓浓的乡愁。',
-      en: 'Made from fresh beef leg meat, repeatedly beaten with special iron rods until gelatinous, and slowly boiled, Shantou hand-beaten beef balls are famous for their extremely bouncy texture. This exquisite delicacy spread globally with overseas Chinese, becoming the signature dish of Chaoshan restaurants worldwide. From Bangkok to Sydney, a steaming bowl of beef ball soup is a must-have comfort food for expatriates, representing not just food, but a thick bowl of nostalgia.',
-      'zh-hant': '選用新鮮牛腿肉，以特製鐵棒反覆捶打數十分鐘直至肉質起膠，手工擠丸、文火慢煮，汕頭手打牛肉丸以緊實彈嫩、「能當乒乓球彈起」的極致口感，成為潮汕美食最具代表性的名片。這道工序繁瑣的匠心美食隨華僑傳遍全球，成為海外潮汕餐館的招牌。從曼谷到雪梨、從多倫多到約翰尼斯堡，凡是有潮汕人開設的餐廳，必有手打牛肉丸。一碗熱騰騰的牛肉丸湯，是無數僑胞慰藉鄉愁、回味家鄉煙火氣的必備美味，它不只是一種食物，更是一碗濃濃的鄉愁。'
+      zh: '手打牛肉丸是潮汕标志性美食，选用新鲜牛腿肉，经反复捶打成浆后挤丸煮熟。其口感弹牙爽脆、肉香浓郁，制作过程全靠手工完成，体现了潮汕人对食材本味与极致口感的执着追求。',
+      en: 'Hand-beaten Beef Balls are an iconic Chaoshan delicacy made from fresh beef leg meat, repeatedly pounded into a paste before being shaped into balls and boiled. Their springy, crisp texture and rich meaty flavor result from entirely manual preparation, reflecting the Chaoshan people\'s dedication to authentic ingredients and ultimate taste.',
+      'zh-hant': '手打牛肉丸是潮汕標誌性美食，選用新鮮牛腿肉，經反覆捶打成漿後擠丸煮熟。其口感彈牙爽脆、肉香濃郁，製作過程全靠手工完成，體現了潮汕人對食材本味與極致口感的執著追求。'
     }
-  },
-  {
+},
+{
     id: 'f1-10',
     floor: 1,
-    name: { zh: '东沟鼓制作技艺', en: 'Donggou Drum Making', 'zh-hant': '東溝鼓製作技藝' },
-    desc: { zh: '音色浑厚洪亮，复刻故土节庆氛围的必备乐器。', en: 'Rich and loud tone, an essential instrument replicating hometown festive vibes.', 'zh-hant': '音色渾厚洪亮，復刻故土節慶氛圍的必備樂器。' },
-    level: { zh: '市级', en: 'Municipal', 'zh-hant': '市級' },
-    region: { zh: '汕头市澄海区', en: 'Chenghai, Shantou', 'zh-hant': '汕頭市澄海區' },
-    image: 'images/f1/donggou-drum.jpg',
+    name: { zh: '东沟鼓', en: 'Donggou Drum', 'zh-hant': '東溝鼓' },
+    desc: { zh: '澄海传统制鼓技艺，民俗表演不可或缺的乐器。', en: 'A traditional Chenghai drum-making craft, essential for folk performances.', 'zh-hant': '澄海傳統製鼓技藝，民俗表演不可或缺的樂器。' },
+    level: { zh: '市级', en: 'Municipal Level', 'zh-hant': '市級' },
+    region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
+    image: 'images/f1/donggougu.jpg',
     detail: {
-      zh: '因产自澄海东沟村而得名的东沟鼓，选用优质樟木或杉木制腔，蒙以水牛皮，经晾晒、绷紧、调音等纯手工工序，成品音色浑厚洪亮、穿透力极强，是潮汕戏曲伴奏与民俗巡游的必备乐器。潮汕海外侨社节庆巡游、文艺演出所用的传统鼓具，均源自本土制作技艺传承。当那一声声浑厚的鼓声回荡在海外街头，复刻故土节庆氛围，让身在异国的侨胞瞬间回到家乡的正月游神队伍中，寄托着深沉的思乡之情。',
-      en: 'Named after Donggou Village in Chenghai, the Donggou Drum uses high-quality camphor or fir wood for the body and buffalo hide for the drumhead. Handcrafted through sun-drying, tightening, and tuning, it produces a rich, loud, and highly penetrating sound, essential for Chaoshan opera and folk parades. Traditional drums used in overseas Chaoshan festive parades originate from this local craftsmanship. The profound drumbeats echoing in overseas streets instantly transport expatriates back to hometown deity parades, embodying deep homesickness.',
-      'zh-hant': '因產自澄海東溝村而得名的東溝鼓，選用優質樟木或杉木製腔，蒙以水牛皮，經晾曬、繃緊、調音等純手工工序，成品音色渾厚洪亮、穿透力極強，是潮汕戲曲伴奏與民俗巡遊的必備樂器。潮汕海外僑社節慶巡遊、文藝演出所用的傳統鼓具，均源自本土製作技藝傳承。當那一聲聲渾厚的鼓聲迴盪在海外街頭，復刻故土節慶氛圍，讓身在異國的僑胞瞬間回到家鄉的正月遊神隊伍中，寄託著深沉的思鄉之情。'
+      zh: '东沟鼓产自澄海东沟村，以杉木为鼓身、水牛皮为鼓面，经选料、刨板、蒙皮、上漆等十余道工序制成。其音色浑厚洪亮、经久耐用，是潮汕英歌舞、锣鼓队等传统民俗表演不可或缺的乐器。',
+      en: 'Donggou Drums are produced in Donggou Village, Chenghai, featuring a fir wood body and buffalo hide drumhead crafted through over ten processes including material selection, planing, skin stretching, and lacquering. Their deep, resonant tone and durability make them indispensable instruments for traditional Chaoshan folk performances like Yingge Dance.',
+      'zh-hant': '東溝鼓產自澄海東溝村，以杉木為鼓身、水牛皮為鼓面，經選料、刨板、蒙皮、上漆等十餘道工序製成。其音色渾厚洪亮、經久耐用，是潮汕英歌舞、鑼鼓隊等傳統民俗表演不可或缺的樂器。'
     }
-  },
+},
   {
     id: 'f1-11',
     floor: 1,
@@ -153,7 +153,7 @@ window.EXHIBIT_DATA = [
     image: 'images/f1/beidiao.jpg',
     detail: {
       zh: '依托本地丰富的滨海资源，汕头贝雕以天然贝壳为原料，经切割、打磨、雕琢、拼接，制作出花鸟、山水等精美艺术摆件。贝壳的天然纹理与匠人的精妙构思完美融合，兼具海洋特色与手工美学。贝雕小巧精致、极具乡土特色，是百年华侨最喜爱的海外伴手礼。早期华侨回乡探亲后返航，必带几件贝雕赠予异国友人，以方寸贝壳向世界展示潮汕滨海匠心文化。许多海外侨胞家中，至今珍藏着祖辈带回的贝雕摆件。',
-      en: 'Relying on rich coastal resources, Shantou Shell Carving uses natural shells to create exquisite art pieces of flowers, birds, and landscapes through cutting, polishing, and assembling. Combining oceanic features with手工 aesthetics, these delicate items were favorite souvenirs for early overseas Chinese to gift to foreign friends, showcasing Chaoshan craftsmanship. Many expatriate families still treasure shell carvings brought back by their ancestors.',
+      en: 'Relying on rich coastal resources, Shantou Shell Carving uses natural shells to create exquisite art pieces of flowers, birds, and landscapes through cutting, polishing, and assembling. Combining oceanic features with handcrafted aesthetics, these delicate items were favorite souvenirs for early overseas Chinese to gift to foreign friends, showcasing Chaoshan craftsmanship. Many expatriate families still treasure shell carvings brought back by their ancestors.',
       'zh-hant': '依託本地豐富的濱海資源，汕頭貝雕以天然貝殼為原料，經切割、打磨、雕琢、拼接，製作出花鳥、山水等精美藝術擺件。貝殼的天然紋理與匠人的精妙構思完美融合，兼具海洋特色與手工美學。貝雕小巧精緻、極具鄉土特色，是百年華僑最喜愛的海外伴手禮。早期華僑回鄉探親後返航，必帶幾件貝雕贈予異國友人，以方寸貝殼向世界展示潮汕濱海匠心文化。許多海外僑胞家中，至今珍藏著祖輩帶回的貝雕擺件。'
     }
   },
@@ -246,62 +246,48 @@ window.EXHIBIT_DATA = [
   {
     id: 'f2-06',
     floor: 2,
-    name: { zh: '澄海双咬鹅舞', en: 'Chenghai Double Geese Dance', 'zh-hant': '澄海雙咬鵝舞' },
-    desc: { zh: '憨态可掬，生动诙谐，充满浓郁乡土气息与生活情趣的动物舞蹈。', en: 'Charming and humorous, an animal dance full of rich local flavor and life interest.', 'zh-hant': '憨態可掬，生動詼諧，充滿濃郁鄉土氣息與生活情趣的動物舞蹈。' },
-    level: { zh: '省级', en: 'Provincial', 'zh-hant': '省級' },
-    region: { zh: '汕头市澄海区', en: 'Chenghai, Shantou', 'zh-hant': '汕頭市澄海區' },
+    name: { zh: '双咬鹅舞', en: 'Chenghai Double Biting Goose Dance', 'zh-hant': '雙咬鵝舞' },
+    desc: { zh: '潮汕民间动物舞蹈，寄托丰收吉祥祈愿。', en: 'A Chaoshan folk animal dance expressing wishes for harvest and good fortune.', 'zh-hant': '潮汕民間動物舞蹈，寄託豐收吉祥祈願。' },
+    level: { zh: '省级', en: 'Provincial Level', 'zh-hant': '省級' },
+    region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
     image: 'images/f2/shuangyaoe.jpg',
     detail: {
-      zh: '澄海双咬鹅舞是潮汕民间独具幽默感的动物舞蹈。两名舞者分别操纵一只“大白鹅”道具，通过默契的配合，生动模拟出白鹅在水中游弋、嬉戏、觅食、互相啄咬等生活习性。舞蹈动作夸张、诙谐逗趣，配以轻松欢快的潮州音乐，极具观赏性和娱乐性。双咬鹅舞充满了浓郁的乡土气息和生活情趣，展现了潮汕人民乐观豁达、热爱生活的性格特质，是节庆巡游中极受群众欢迎的欢乐节目。',
-      en: 'The Chenghai Double Geese Dance is a uniquely humorous folk animal dance in Chaoshan. Two dancers manipulate "white goose" props, vividly simulating their swimming, playing, foraging, and pecking behaviors through tacit cooperation. With exaggerated, funny movements and cheerful Chaozhou music, it is highly entertaining. Full of rich local flavor, it showcases the optimistic and life-loving character of the Chaoshan people, making it a highly popular festive parade performance.',
-      'zh-hant': '澄海雙咬鵝舞是潮汕民間獨具幽默感的動物舞蹈。兩名舞者分別操縱一隻「大白鵝」道具，透過默契的配合，生動模擬出白鵝在水中游弋、嬉戲、覓食、互相啄咬等生活習性。舞蹈動作誇張、詼諧逗趣，配以輕鬆歡快的潮州音樂，極具觀賞性和娛樂性。雙咬鵝舞充滿了濃郁的鄉土氣息和生活情趣，展現了潮汕人民樂觀豁達、熱愛生活的性格特質，是節慶巡遊中極受群眾歡迎的歡樂節目。'
+      zh: '双咬鹅舞源于潮汕民间动物舞蹈，由两名舞者共披一件鹅形道具，模仿鹅的行走、嬉戏、争斗等姿态。舞蹈节奏明快、动作诙谐幽默，常在节庆巡游中表演，寄托了民众对丰收吉祥的美好祈愿。',
+      en: 'The Double Biting Goose Dance originates from Chaoshan folk animal dances. Two dancers share a goose-shaped prop to mimic the walking, playing, and fighting postures of geese. With its lively rhythm and humorous movements, it is often performed during festival parades, expressing people\'s heartfelt wishes for harvest and good fortune.',
+      'zh-hant': '雙咬鵝舞源於潮汕民間動物舞蹈，由兩名舞者共披一件鵝形道具，模仿鵝的行走、嬉戲、爭鬥等姿態。舞蹈節奏明快、動作詼諧幽默，常在節慶巡遊中表演，寄託了民眾對豐收吉祥的美好祈願。'
     }
-  },
+},
   {
     id: 'f2-07',
     floor: 2,
-    name: { zh: '南澳车鼓舞', en: "Nan'ao Cart Drum Dance", 'zh-hant': '南澳車鼓舞' },
+    name: { zh: '南澳车鼓舞', en: "Nan’ao Chariot Drum Dance", 'zh-hant': '南澳車鼓舞' },
     desc: { zh: '海岛军屯文化的遗存，鼓声震天，舞步矫健的渔岛战歌。', en: 'A relic of island military garrison culture, a fishing island battle song with deafening drums.', 'zh-hant': '海島軍屯文化的遺存，鼓聲震天，舞步矯健的漁島戰歌。' },
     level: { zh: '省级', en: 'Provincial', 'zh-hant': '省級' },
-    region: { zh: '汕头市南澳县', en: "Nan'ao, Shantou", 'zh-hant': '汕頭市南澳縣' },
+    region: { zh: '汕头市南澳县', en: "Nan’ao, Shantou", 'zh-hant': '汕頭市南澳縣' },
     image: 'images/f2/chegu.jpg',
     detail: {
       zh: '南澳车鼓舞是流传于南澳岛的独特民间舞蹈，源于明清时期驻岛水师的操练和军屯文化。表演时，舞者推着装饰华丽的小车，车上安置大鼓，击鼓者边击边舞，推车者则踏着鼓点做出各种矫健的武术动作和阵型变换。车鼓舞节奏铿锵、气势威武，既展现了海岛军民保家卫国的尚武精神，又融入了渔家庆祝丰收的欢乐情绪，是南澳岛海洋军事文化与民俗交融的活态见证。',
-      en: "Nan'ao Cart Drum Dance is a unique folk dance on Nan'ao Island, originating from the military drills of the Ming and Qing dynasties. Dancers push ornately decorated carts bearing large drums; the drummer beats the drum while dancing, and the cart pushers perform vigorous martial arts movements to the rhythm. The dance is rhythmic and majestic, showcasing the martial spirit of island soldiers and the joy of fishermen celebrating a good harvest, serving as a living testimony of the island's marine military and folk culture.",
+      en: "Nan’ao Chariot Drum Dance is a unique folk dance on Nan’ao Island, originating from the military drills of the Ming and Qing dynasties. Dancers push ornately decorated carts bearing large drums; the drummer beats the drum while dancing, and the cart pushers perform vigorous martial arts movements to the rhythm. The dance is rhythmic and majestic, showcasing the martial spirit of island soldiers and the joy of fishermen celebrating a good harvest, serving as a living testimony of the island's marine military and folk culture.",
       'zh-hant': '南澳車鼓舞是流傳於南澳島的獨特民間舞蹈，源於明清時期駐島水師的操練和軍屯文化。表演時，舞者推著裝飾華麗的小車，車上安置大鼓，擊鼓者邊擊邊舞，推車者則踏著鼓點做出各種矯健的武術動作和陣型變換。車鼓舞節奏鏗鏘、氣勢威武，既展現了海島軍民保家衛國的尚武精神，又融入了漁家慶祝豐收的歡樂情緒，是南澳島海洋軍事文化與民俗交融的活態見證。'
     }
-  },
+},
   {
     id: 'f2-08',
     floor: 2,
-    name: { zh: '南澳麒麟舞', en: "Nan'ao Kylin Dance", 'zh-hant': '南澳麒麟舞' },
+    name: { zh: '南澳麒麟舞', en: "Nan’ao Kirin Dance", 'zh-hant': '南澳麒麟舞' },
     desc: { zh: '瑞兽降临海岛，祈福风调雨顺，彰显海岛特有的祥瑞文化。', en: 'The auspicious beast descends on the island, praying for good weather and island-specific auspicious culture.', 'zh-hant': '瑞獸降臨海島，祈福風調雨順，彰顯海島特有的祥瑞文化。' },
     level: { zh: '市级', en: 'Municipal', 'zh-hant': '市級' },
-    region: { zh: '汕头市南澳县', en: "Nan'ao, Shantou", 'zh-hant': '汕頭市南澳縣' },
+    region: { zh: '汕头市南澳县', en: "Nan’ao, Shantou", 'zh-hant': '汕頭市南澳縣' },
     image: 'images/f2/qilin.jpg',
     detail: {
       zh: '南澳麒麟舞是南澳岛特有的传统民间舞蹈。与内陆地区的麒麟舞不同，南澳麒麟舞融入了浓厚的海洋文化元素，麒麟造型更具海岛粗犷之美。表演时，在激昂的锣鼓声中，舞者操纵麒麟做出出海、踏浪、寻宝、赐福等动作，寓意瑞兽降临海岛，庇佑渔民出海平安、渔业丰收。它是南澳岛民在艰苦的海洋环境中祈求祥瑞、寄托美好愿望的重要精神载体，彰显了海岛特有的祥瑞文化。',
-      en: "The Nan'ao Kylin Dance is a traditional folk dance unique to Nan'ao Island. Unlike inland versions, it integrates rich marine cultural elements, with a rougher island-style Kylin design. Accompanied by passionate drums, dancers manipulate the Kylin to simulate emerging from the sea, riding waves, and bestowing blessings, symbolizing the auspicious beast protecting fishermen and ensuring a bountiful harvest. It is a vital spiritual medium for islanders to seek good fortune in a harsh marine environment.",
-      'zh-hant': '南澳麒麟舞是南澳島特有的傳統民間舞蹈。與內陸地區的麒麟舞不同，南澳麒麟舞融入了濃厚的海洋文化元素，麒麟造型更具海島粗獷之美。表演時，在激昂的鑼鼓聲中，舞者操縱麒麟做出出海、踏浪、尋寶、賜福等動作，寓意瑞獸降臨海島，庇佑漁民出海平安、漁業豐收。它是南澳島民在艱苦的海洋環境中祈求祥瑞、寄託美好願望的重要精神載體，彰顯了海島特有的祥瑞文化。'
+      en: "The Nan’ao Kirin Dance is a traditional folk dance unique to Nan’ao Island. Unlike inland versions, it integrates rich marine cultural elements, with a rougher island-style Kirin design. Accompanied by passionate drums, dancers manipulate the Kirin to simulate emerging from the sea, riding waves, and bestowing blessings, symbolizing the auspicious beast protecting fishermen and ensuring a bountiful harvest. It is a vital spiritual medium for islanders to seek good fortune in a harsh marine environment.",
+      'zh-hant': '南澳麒麟舞是南澳島特有的傳統民間舞蹈。與內陸地區的麒麟舞不同，南澳麒麟舞融入了濃厚的海洋文化元素，麒麟造型更具海島粗獷之美。表演時，在激昂的鑼鼓聲中，舞者操縱麒麟做出出海、踏浪、尋寶、賜福等動作，寓意瑞獸降臨海島，庇佑漁民出海平安、漁業豐收。它是南澳島民在艱苦的海洋環境中祈求祥瑞、寄託美好願望的重要精神載體。'
     }
-  },
+},
     // ================= 三楼：匠心万象  =================
   {
     id: 'f3-01',
-    floor: 3,
-    name: { zh: '潮汕工夫茶', en: 'Chaoshan Gongfu Tea', 'zh-hant': '潮汕工夫茶' },
-    desc: { zh: '中国茶道的活化石，融精神、礼仪、沏泡于一体的极致品茗哲学。', en: 'The living fossil of Chinese tea ceremony, an ultimate philosophy blending spirit, etiquette, and brewing.', 'zh-hant': '中國茶道的活化石，融精神、禮儀、沏泡於一體的極致品茗哲學。' },
-    level: { zh: '国家级', en: 'National', 'zh-hant': '國家級' },
-    region: { zh: '潮汕地区', en: 'Chaoshan Region', 'zh-hant': '潮汕地區' },
-    image: 'images/f3/gongfucha.jpg',
-    detail: {
-      zh: '潮汕工夫茶是中国茶道之集大成者，被誉为“中国茶文化的活化石”。它不仅是解渴之饮，更是潮汕人待客、祭祀、议事不可或缺的社交礼仪与生活方式。其核心在于“精”，从选茶、择水、候火到茶具（如孟臣罐、若琛杯），皆有严苛讲究。冲泡过程更蕴含“关公巡城”“韩信点兵”等极具仪式感与美学意蕴的程式。潮汕人信奉“茶三酒四”，无论身处繁华都市还是异国他乡，一套工夫茶具便是潮人安身立命、联络乡谊的精神图腾。随着华侨的足迹，工夫茶香飘四海，成为世界认知中华文化与潮汕风情的一扇重要窗口。',
-      en: 'Chaoshan Gongfu Tea is the epitome of the Chinese tea ceremony, hailed as the "living fossil of Chinese tea culture." Far beyond a mere beverage, it is an indispensable social etiquette and lifestyle for Chaoshan people in hospitality, worship, and daily affairs. Its core lies in "refinement," with strict standards for tea selection, water, fire, and teaware (like Mengchen pots and Ruochen cups). The brewing process features highly ritualistic and aesthetic steps like "Guan Gong Patrolling the City" and "Han Xin Counting his Troops." Following the motto "tea for three, wine for four," a Gongfu tea set serves as a spiritual totem for Chaoshan people worldwide. Through the footsteps of overseas Chinese, its aroma has spread globally, becoming a vital window for the world to understand Chinese and Chaoshan culture.',
-      'zh-hant': '潮汕工夫茶是中國茶道之集大成者，被譽為「中國茶文化的活化石」。它不僅是解渴之飲，更是潮汕人待客、祭祀、議事不可或缺的社交禮儀與生活方式。其核心在於「精」，從選茶、擇水、候火到茶具（如孟臣罐、若琛杯），皆有嚴苛講究。沖泡過程更蘊含「關公巡城」「韓信點兵」等極具儀式感與美學意蘊的程式。潮汕人信奉「茶三酒四」，無論身處繁華都市還是異國他鄉，一套工夫茶具便是潮人安身立命、聯絡鄉誼的精神圖騰。隨著華僑的足跡，工夫茶香飄四海，成為世界認知中華文化與潮汕風情的一扇重要窗口。'
-    }
-  },
-  {
-    id: 'f3-02',
     floor: 3,
     name: { zh: '潮州木雕', en: 'Chaozhou Wood Carving', 'zh-hant': '潮州木雕' },
     desc: { zh: '多层镂空，金碧辉煌，中国木雕艺术的巅峰之作。', en: 'Multi-layered openwork and golden brilliance, the pinnacle of Chinese wood carving art.', 'zh-hant': '多層鏤空，金碧輝煌，中國木雕藝術的巔峰之作。' },
@@ -315,7 +301,7 @@ window.EXHIBIT_DATA = [
     }
   },
   {
-    id: 'f3-03',
+    id: 'f3-02',
     floor: 3,
     name: { zh: '陇美金漆画', en: 'Longmei Gold Lacquer Painting', 'zh-hant': '隴美金漆畫' },
     desc: { zh: '黑漆为底，铁笔勾勒，以黄金与青金绘就的潮汕乡土建筑鎏金画卷。', en: 'Black lacquer base with iron-pen outlines, a gilded canvas of Chaoshan architecture using gold and azure.', 'zh-hant': '黑漆為底，鐵筆勾勒，以黃金與青金繪就的潮汕鄉土建築鎏金畫卷。' },
@@ -329,11 +315,11 @@ window.EXHIBIT_DATA = [
     }
   },
     {
-    "id": "f3-04",
+    "id": "f3-03",
     "floor": 3,
     "name": {
       "zh": "印章镌刻技艺",
-      "en": "Seal Engraving Craftsmanship",
+      "en": "Seal Engraving",
       "zh-hant": "印章鐫刻技藝"
     },
     "desc": {
@@ -354,21 +340,21 @@ window.EXHIBIT_DATA = [
     "image": "images/f3/yinzhang.jpg",
     "detail": {
       "zh": "印章镌刻技艺是汕头市市级非物质文化遗产，其发展与潮汕侨批文化深度绑定。近代汕头开埠后，侨批局为确立信用体系，催生了专业的印章镌刻行业。匠人以寿山石、青田石或铜材为料，经磨平、分字打格、反写篆书、操刀刻字、加深平底、锉边修整六道工序而成。刀法讲究“稳、准、狠”，字体多为缪篆或九叠篆，布局疏密有致。在侨批实物中，批局的“信誉章”与侨眷收到汇款后盖下的“平安落章”是验证真伪、确认交割的核心凭证。一枚鲜红印泥，既是跨越重洋的金融契约，更是“家书抵万金”的情感信物。如今，该技艺虽受电脑刻章冲击，但作为侨批文物研究的关键依据与金石艺术载体，仍由少数传承人通过非遗体验馆坚守，让后人得以在刀痕石韵中触摸华侨重信守诺的精神脉络。",
-      "en": "Seal Engraving Craftsmanship is a Municipal ICH of Shantou, deeply intertwined with Chaoshan Qiaopi (overseas remittance) culture. After Shantou opened as a treaty port, the need for credit systems in remittance bureaus spurred a specialized seal engraving industry. Artisans use Shoushan stone, Qingtian stone, or copper, completing six steps: leveling, grid layout, reverse seal script writing, carving, deepening the base, and edge filing. The knife work demands 'steadiness, precision, and decisiveness', often using Miu or Jiudie seal scripts with balanced composition. In Qiaopi artifacts, the bureau's 'credibility seal' and the family's 'safety receipt seal' were core credentials for authentication and transaction confirmation. A touch of red ink served as both a transoceanic financial contract and an emotional token of 'a letter from home worth ten thousand gold'. Though impacted by computerized engraving today, it persists through inheritors in heritage workshops as a key basis for Qiaopi research and an epigraphic art form, allowing future generations to trace the spirit of trust and promise etched in stone.",
-      "zh-hant": "印章鐫刻技藝是汕頭市市級非物質文化遺產，其發展與潮汕僑批文化深度綁定。近代汕頭開埠後，僑批局為確立信用體系，催生了專業的印章鐫刻行業。匠人以壽山石、青田石或銅材為料，經磨平、分字打格、反寫篆書、操刀刻字、加深平底、銼邊修整六道工序而成。刀法講究「穩、準、狠」，字體多為繆篆或九疊篆，佈局疏密有致。在僑批實物中，批局的「信譽章」與僑眷收到匯款後蓋下的「平安落章」是驗證真偽、確認交割的核心憑證。一枚鮮紅印泥，既是跨越重洋的金融契約，更是「家書抵萬金」的情感信物。如今，該技藝雖受電腦刻章衝擊，但作為僑批文物研究的關鍵依據與金石藝術載體，仍由少數傳承人通過非遺體驗館堅守，讓後人得以在刀痕石韻中觸摸華僑重信守諾的精神脈絡。"
+      "en": "Seal Engraving is a Municipal ICH of Shantou, deeply intertwined with Chaoshan Qiaopi culture. After Shantou opened as a treaty port, the need for credit systems spurred a specialized seal engraving industry. Artisans use Shoushan stone, Qingtian stone, or copper through six steps. The seal stamp is the core credential for Qiaopi remittance.",
+      "zh-hant": "印章鐫刻技藝是汕頭市市級非物質文化遺產，其發展與潮汕僑批文化深度綁定。匠人以壽山石、青田石或銅材為料六道工序而成，一枚鮮紅印泥是跨洋金融契約與情感信物。"
     }
-  },
+},
   {
-    "id": "f3-05",
+    "id": "f3-04",
     "floor": 3,
     "name": {
       "zh": "潮绣",
-      "en": "Chao Embroidery",
+      "en": "Teochew Embroidery",
       "zh-hant": "潮繡"
     },
     "desc": {
       "zh": "垫高立体，金线盘绕，中国四大名绣中粤绣的独特分支与侨乡女红骄傲。",
-      "en": "Padded 3D relief and gold thread winding, a unique branch of Yue Embroidery among China's Four Famous Embroideries and a pride of Chaoshan needlework.",
+      "en": "Padded 3D relief and gold thread winding, a unique branch of Yue Embroidery and a pride of Chaoshan needlework.",
       "zh-hant": "墊高立體，金線盤繞，中國四大名繡中粵繡的獨特分支與僑鄉女紅驕傲。"
     },
     "level": {
@@ -383,22 +369,22 @@ window.EXHIBIT_DATA = [
     },
     "image": "images/f3/chaoxiu.jpg",
     "detail": {
-      "zh": "潮绣是国家级非物质文化遗产，作为中国四大名绣“粤绣”的重要分支，以“垫高立体”的浮雕式绣法和大量使用金银线而独树一帜。其核心工艺为“垫、钉、拼、缀”：先用棉絮或纸丁垫高图案底层，再以金银线盘绕刺绣，辅以绒线、珠片点缀，使作品呈现强烈的立体感与金碧辉煌的视觉效果。针法多达200余种，尤以“二针龙鳞”“钉金绣”为标志性技法。传统上用于神庙祭祀帐幔、婚嫁礼服及宗祠装饰，是潮汕女性“女红”技艺的巅峰体现。19世纪末至20世纪中叶，潮绣随华侨远销东南亚，成为海外潮人寺庙神袍、幡帐的主要来源；1980年代更与婚纱礼服产业融合，推动潮州成为“中国婚纱礼服名城”。如今，康惠芳等传承人将国礼级作品带入国际视野，而年轻一代则探索“潮绣+时尚配饰”的活化路径，让这门指尖上的立体艺术持续闪耀。",
-      "en": "Chao Embroidery is a National ICH and a vital branch of Yue Embroidery (one of China's Four Famous Embroideries), distinguished by its 'padded 3D' relief technique and extensive use of gold/silver threads. Core processes include 'padding, nailing, piecing, and embellishing': cotton or paper pads raise the design base, then gold/silver threads are wound over them, supplemented by silk threads and sequins for strong 3D effects and golden brilliance. With over 200 stitch types, 'Two-Stitch Dragon Scale' and 'Gold Nail Embroidery' are iconic. Traditionally used for temple ritual hangings, wedding garments, and ancestral hall decorations, it represents the pinnacle of Chaoshan women's needlework. From the late 19th to mid-20th century, it was exported to Southeast Asia via overseas Chinese, supplying deity robes and banners for expatriate temples; in the 1980s, it merged with the wedding dress industry, making Chaozhou the 'China Wedding Dress City'. Today, inheritors like Kang Huifang bring national-gift-level works to global stages, while younger generations explore 'Chao Embroidery + fashion accessories' revitalization, keeping this 3D fingertip art shining.",
-      "zh-hant": "潮繡是國家級非物質文化遺產，作為中國四大名繡「粵繡」的重要分支，以「墊高立體」的浮雕式繡法和大量使用金銀線而獨樹一幟。其核心工藝為「墊、釘、拼、綴」：先用棉絮或紙丁墊高圖案底層，再以金銀線盤繞刺繡，輔以絨線、珠片點綴，使作品呈現強烈的立體感與金碧輝煌的視覺效果。針法多達200餘種，尤以「二針龍鱗」「釘金繡」為標誌性技法。傳統上用於神廟祭祀帳幔、婚嫁禮服及宗祠裝飾，是潮汕女性「女紅」技藝的巔峰體現。19世紀末至20世紀中葉，潮繡隨華僑遠銷東南亞，成為海外潮人寺廟神袍、幡帳的主要來源；1980年代更與婚紗禮服產業融合，推動潮州成為「中國婚紗禮服名城」。如今，康惠芳等傳承人將國禮級作品帶入國際視野，而年輕一代則探索「潮繡+時尚配飾」的活化路徑，讓這門指尖上的立體藝術持續閃耀。"
+      "zh": "潮绣是国家级非物质文化遗产，作为中国四大名绣“粤绣”的重要分支，以垫高立体、大量金银线为特色。",
+      "en": "Chao Embroidery is National ICH famous for 3D padded patterns and gold threads.",
+      "zh-hant": "潮繡為國家級非遺，以立體墊繡、金銀線工藝聞名。"
     }
-  },
-  {
-    "id": "f3-06",
+},
+ {
+    "id": "f3-05",
     "floor": 3,
     "name": {
       "zh": "抽纱",
-      "en": "Drawn Work (Chousha)",
+      "en": "Drawnwork Embroidery",
       "zh-hant": "抽紗"
     },
     "desc": {
       "zh": "南国名花，中西合璧的百年纺织绝技，侨乡女性经济独立与文化输出的双重象征。",
-      "en": "The 'Flower of the South', a century-old textile skill blending Chinese and Western styles, a dual symbol of Chaoshan women's economic independence and cultural export.",
+      "en": "The 'Flower of the South', a century-old textile skill blending Chinese and Western styles.",
       "zh-hant": "南國名花，中西合璧的百年紡織絕技，僑鄉女性經濟獨立與文化輸出的雙重象徵。"
     },
     "level": {
@@ -413,22 +399,22 @@ window.EXHIBIT_DATA = [
     },
     "image": "images/f3/chousha.jpg",
     "detail": {
-      "zh": "抽纱（汕头抽纱）是国家级非物质文化遗产，起源于19世纪末汕头开埠时期，是西方抽通工艺与潮汕传统刺绣完美融合的产物。其核心技法为“抽、绣、编、织”：在优质亚麻或棉布上按图案抽去部分经纬线，再以针线编织出玲珑剔透的镂空花纹，辅以手绣、钩针等工艺，形成五大类240余种针法体系。因工艺繁复、成品精美，被誉为“南国名花”。20世纪鼎盛期，汕头抽纱出口欧美80余国，年创汇超亿美元，吸纳超10万潮汕女性就业，“村村有织女，户户闻钩声”成为侨乡独特景观，无数女性借此实现经济独立与家庭地位提升。1972年周恩来总理曾将其作为国礼赠予伊朗王后；1980年《双凤朝牡丹》台布获慕尼黑国际手工业品博览会金质奖章。如今，虽面临机械化冲击，但通过“抽纱+婚纱”“抽纱+AI文创”等创新模式，这门承载着侨乡女性智慧与尊严的技艺正以新形态延续生命，其经典纹样仍是海外侨胞家中最珍视的传家软装。",
-      "en": "Drawn Work (Shantou Chousha) is a National ICH originating in the late 19th century when Shantou opened as a treaty port, a perfect fusion of Western drawn-thread work and traditional Chaoshan embroidery. Core techniques include 'drawing, embroidering, braiding, and weaving': removing specific warp/weft threads from fine linen/cotton fabric, then weaving intricate openwork patterns with needles, supplemented by hand embroidery and crochet, forming a system of 5 categories and 240+ stitches. Hailed as the 'Flower of the South' for its complexity and beauty, it peaked in the 20th century with exports to 80+ countries, earning over $100 million annually and employing 100,000+ Chaoshan women—'every village had weavers, every home heard hooks' became a unique Chaoshan scene, enabling countless women to achieve economic independence and elevated family status. In 1972, Premier Zhou Enlai gifted it to the Queen of Iran; in 1980, the 'Double Phoenixes Paying Homage to Peony' tablecloth won a gold medal at the Munich International Handicrafts Fair. Today, though challenged by mechanization, it lives on through innovations like 'Chousha + wedding dresses' and 'Chousha + AI cultural products', continuing the legacy of Chaoshan women's wisdom and dignity, with classic patterns remaining treasured heirloom soft furnishings in overseas Chinese homes.",
-      "zh-hant": "抽紗（汕頭抽紗）是國家級非物質文化遺產，起源於19世紀末汕頭開埠時期，是西方抽通工藝與潮汕傳統刺繡完美融合的產物。其核心技法為「抽、繡、編、織」：在優質亞麻或棉布上按圖案抽去部分經緯線，再以針線編織出玲瓏剔透的鏤空花紋，輔以手繡、鉤針等工藝，形成五大類240餘種針法體系。因工藝繁複、成品精美，被譽為「南國名花」。20世紀鼎盛期，汕頭抽紗出口歐美80餘國，年創匯超億美元，吸納超10萬潮汕女性就業，「村村有織女，戶戶聞鉤聲」成為僑鄉獨特景觀，無數女性藉此實現經濟獨立與家庭地位提升。1972年周恩來總理曾將其作為國禮贈予伊朗王后；1980年《雙鳳朝牡丹》檯布獲慕尼黑國際手工業品博覽會金質獎章。如今，雖面臨機械化衝擊，但通過「抽紗+婚紗」「抽紗+AI文創」等創新模式，這門承載著僑鄉女性智慧與尊嚴的技藝正以新形態延續生命，其經典紋樣仍是海外僑胞家中最珍視的傳家軟裝。"
+      "zh": "抽纱中西融合镂空纺织技艺，20世纪大量出口创汇。",
+      "en": "Drawnwork Embroidery combines Western and Chinese hollow textile craft.",
+      "zh-hant": "抽紗融合中西鏤空紡織，上世紀大量外銷創匯。"
     }
-  },
+},
     {
-    "id": "f3-07",
+    "id": "f3-06",
     "floor": 3,
     "name": {
       "zh": "珠绣技艺",
-      "en": "Bead Embroidery Craftsmanship",
+      "en": "Bead Embroidery",
       "zh-hant": "珠繡技藝"
     },
     "desc": {
       "zh": "以珠代线，流光溢彩，潮汕抽纱与潮绣融合衍生的独特装饰艺术。",
-      "en": "Using beads instead of threads for shimmering brilliance, a unique decorative art derived from the fusion of Chaoshan drawn work and Chao embroidery.",
+      "en": "Using beads instead of threads for shimmering decorative art.",
       "zh-hant": "以珠代線，流光溢彩，潮汕抽紗與潮繡融合衍生的獨特裝飾藝術。"
     },
     "level": {
@@ -443,22 +429,22 @@ window.EXHIBIT_DATA = [
     },
     "image": "images/f3/zhuxiu.jpg",
     "detail": {
-      "zh": "珠绣技艺是广东省省级非物质文化遗产，起源于20世纪初汕头开埠时期，是西方珠饰工艺与潮汕传统抽纱、潮绣技法融合创新的产物。其核心工艺为“穿、钉、盘、叠”：匠人以玻璃珠、米珠、亮片等为材，用特制细针将珠粒按图案逐颗钉缝在绸缎或抽纱底布上，通过珠子的排列组合形成浮雕式立体花纹。针法包含平钉、叠钉、盘旋钉等30余种，成品兼具抽纱的通透灵动与潮绣的金碧辉煌，光影下变幻莫测。早期主要用于婚纱礼服、戏服及宗教用品装饰；1980年代随汕头特区开放，珠绣成为出口创汇主力，产品远销欧美、中东，吸纳数万城乡女性就业，“家家有绣架，户户闪珠光”是当时侨乡真实写照。如今，传承人许少燕等将珠绣与高级定制时装结合，作品登上巴黎时装周；同时开发珠绣首饰、文创包袋等轻量化产品，让这门“指尖上的光影艺术”从传统作坊走向国际时尚舞台，延续着潮汕女性以巧手创造价值的百年传统。",
-      "en": "Bead Embroidery Craftsmanship is a Provincial ICH of Guangdong, originating in early 20th-century Shantou when it opened as a treaty port—a creative fusion of Western beadwork with traditional Chaoshan drawn work and Chao embroidery. Core techniques include 'threading, nailing, coiling, and layering': artisans use glass beads, seed beads, and sequins, stitching them one by one onto silk or drawn-work fabric with fine needles to form relief-style patterns. With over 30 stitch types (flat nail, layered nail, spiral nail), finished works combine the translucency of drawn work and the golden brilliance of Chao embroidery, creating mesmerizing light effects. Initially used for wedding dresses, opera costumes, and religious items; in the 1980s, with Shantou Special Economic Zone's opening, it became a major export earner, shipped to Europe, America, and the Middle East, employing tens of thousands of urban/rural women—'every home had an embroidery frame, every household sparkled with beads' was a true Chaoshan scene. Today, inheritors like Xu Shaoyan integrate bead embroidery into haute couture, showcasing works at Paris Fashion Week; meanwhile, lightweight products like bead jewelry and cultural bags are developed, bringing this 'light-and-shadow art on fingertips' from traditional workshops to the global fashion stage, continuing the century-old tradition of Chaoshan women creating value with skilled hands.",
-      "zh-hant": "珠繡技藝是廣東省省級非物質文化遺產，起源於20世紀初汕頭開埠時期，是西方珠飾工藝與潮汕傳統抽紗、潮繡技法融合創新的產物。其核心工藝為「穿、釘、盤、疊」：匠人以玻璃珠、米珠、亮片等為材，用特製細針將珠粒按圖案逐顆釘縫在綢緞或抽紗底布上，通過珠子的排列組合形成浮雕式立體花紋。針法包含平釘、疊釘、盤旋釘等30餘種，成品兼具抽紗的通透靈動與潮繡的金碧輝煌，光影下變幻莫測。早期主要用於婚紗禮服、戲服及宗教用品裝飾；1980年代隨汕頭特區開放，珠繡成為出口創匯主力，產品遠銷歐美、中東，吸納數萬城鄉女性就業，「家家有繡架，戶戶閃珠光」是當時僑鄉真實寫照。如今，傳承人許少燕等將珠繡與高級定制時裝結合，作品登上巴黎時裝周；同時開發珠繡首飾、文創包袋等輕量化產品，讓這門「指尖上的光影藝術」從傳統作坊走向國際時尚舞台，延續著潮汕女性以巧手創造價值的百年傳統。"
+      "zh": "珠绣以玻璃珠钉绣，多用于婚纱、戏服出口。",
+      "en": "Bead Embroidery uses glass beads for wedding and opera costumes.",
+      "zh-hant": "珠繡採用玻璃珠釘繡，多用於婚紗、戲服出口。"
     }
-  },
+},
   {
-    "id": "f3-08",
+    "id": "f3-07",
     "floor": 3,
     "name": {
       "zh": "太安堂麒麟丸制作技艺",
-      "en": "Taiantang Qilin Pill Making Craftsmanship",
+      "en": "Tai'antang Kirin Pill",
       "zh-hant": "太安堂麒麟丸製作技藝"
     },
     "desc": {
       "zh": "百年秘方，九蒸九晒，潮汕中医药非遗瑰宝与华侨健康守护信物。",
-      "en": "A century-old secret formula with nine steamings and nine sun-dryings, a Chaoshan TCM intangible heritage gem and health guardian token for overseas Chinese.",
+      "en": "A century-old nine-steam herbal pill for overseas Chinese health.",
       "zh-hant": "百年秘方，九蒸九曬，潮汕中醫藥非遺瑰寶與華僑健康守護信物。"
     },
     "level": {
@@ -473,22 +459,22 @@ window.EXHIBIT_DATA = [
     },
     "image": "images/f3/qilinwan.jpg",
     "detail": {
-      "zh": "太安堂麒麟丸制作技艺是国家级非物质文化遗产，源于清同治年间汕头“太安堂”药铺，由柯氏家族世代传承，是潮汕地区唯一入选国家级非遗的传统医药项目。其核心工艺遵循古法“九蒸九晒”：精选人参、鹿茸、枸杞等28味道地药材，经浸泡、蒸制、晾晒循环九次，再以炼蜜为丸，全程耗时49天，火候、湿度全凭传承人经验把控。该丸具有补肾益精、调经助孕之效，清末民初随潮汕移民远播东南亚，成为海外侨胞应对热带湿热气候、调理生育健康的“随身良药”。新加坡、泰国等地老侨社至今流传“过番带麒麟，平安又添丁”的俗语。2014年列入国家级非遗后，太安堂建立GMP标准化生产线，在保留核心古法工序的同时实现质量可控；并通过“非遗+康养旅游”模式，在汕头小公园开设体验馆，让游客亲手参与搓丸、包装环节。如今，麒麟丸不仅是中医药活态传承的典范，更是连接海内外潮人健康记忆与文化认同的情感纽带。",
-      "en": "Taiantang Qilin Pill Making Craftsmanship is a National ICH, originating from the 'Taiantang' pharmacy in Shantou during the Tongzhi era of the Qing Dynasty, passed down through the Ke family for generations—it is the only traditional medicine project in Chaoshan listed as National ICH. Its core process follows the ancient 'nine steamings and nine sun-dryings' method: 28 authentic herbs including ginseng, deer antler, and goji berries are soaked, steamed, and sun-dried in nine cycles, then formed into pills with refined honey, taking 49 days total; heat and humidity are controlled entirely by the inheritor's experience. The pill tonifies kidney essence and regulates menstruation for fertility. In the late Qing and early Republic era, it spread to Southeast Asia with Chaoshan migrants, becoming a 'portable remedy' for expatriates to cope with tropical humidity and support reproductive health. Old overseas communities in Singapore and Thailand still say 'Bring Qilin when going abroad, safe and blessed with children'. After being listed as National ICH in 2014, Taiantang established a GMP-standard production line, retaining core ancient processes while ensuring quality control; through a 'ICH + wellness tourism' model, an experience hall was opened in Shantou Xiaogongyuan, allowing visitors to participate in pill rolling and packaging. Today, the Qilin Pill is not only a model of living TCM inheritance but also an emotional bond connecting the health memories and cultural identity of Chaoshan people worldwide.",
-      "zh-hant": "太安堂麒麟丸製作技藝是國家級非物質文化遺產，源於清同治年間汕頭「太安堂」藥鋪，由柯氏家族世代傳承，是潮汕地區唯一入選國家級非遺的傳統醫藥項目。其核心工藝遵循古法「九蒸九曬」：精選人參、鹿茸、枸杞等28味道地藥材，經浸泡、蒸製、晾曬循環九次，再以煉蜜為丸，全程耗時49天，火候、濕度全憑傳承人經驗把控。該丸具有補腎益精、調經助孕之效，清末民初隨潮汕移民遠播東南亞，成為海外僑胞應對熱帶濕熱氣候、調理生育健康的「隨身良藥」。新加坡、泰國等地老僑社至今流傳「過番帶麒麟，平安又添丁」的俗語。2014年列入國家級非遺後，太安堂建立GMP標準化生產線，在保留核心古法工序的同時實現質量可控；並通過「非遺+康養旅遊」模式，在汕頭小公園開設體驗館，讓遊客親手參與搓丸、包裝環節。如今，麒麟丸不僅是中醫藥活態傳承的典範，更是連接海內外潮人健康記憶與文化認同的情感紐帶。"
+      "zh": "太安堂麒麟丸遵循九蒸九晒古法，随华侨销往南洋。",
+      "en": "Tai'antang Kirin Pill follows ancient nine-steaming craft sold overseas.",
+      "zh-hant": "太安堂麒麟丸遵循九蒸九曬古法，隨華僑遠銷南洋。"
     }
-  },
+},
   {
-    "id": "f3-09",
+    "id": "f3-08",
     "floor": 3,
     "name": {
       "zh": "黄德泰药酒制作技艺",
-      "en": "Huang Detai Medicinal Wine Making Craftsmanship",
+      "en": "Huangdetai Medicinal Wine",
       "zh-hant": "黃德泰藥酒製作技藝"
     },
     "desc": {
       "zh": "古方泡制，醇香入骨，潮汕侨乡祛湿养生智慧与南洋生存记忆的液体载体。",
-      "en": "Ancient recipe infusion with mellow aroma penetrating the bones, a liquid carrier of Chaoshan dampness-dispelling wellness wisdom and Nanyang survival memory.",
+      "en": "Ancient medicinal wine for dampness relief favored by Nanyang migrants.",
       "zh-hant": "古方泡製，醇香入骨，潮汕僑鄉祛濕養生智慧與南洋生存記憶的液體載體。"
     },
     "level": {
@@ -503,13 +489,13 @@ window.EXHIBIT_DATA = [
     },
     "image": "images/f3/huangdetai.jpg",
     "detail": {
-      "zh": "黄德泰药酒制作技艺是汕头市市级非物质文化遗产，始创于清光绪年间汕头“黄德泰”药行，由黄氏家族五代传承，是潮汕传统药酒炮制技艺的典型代表。其核心工艺为“选、浸、蒸、封、陈”：精选当归、川芎、杜仲等16味祛湿活血药材，以本地米酒为基，经三浸三蒸后装入陶瓮，用荷叶、泥巴密封窖藏至少三年，使药性充分融入酒体，色泽琥珀、醇香绵柔。该药酒专治风湿痹痛、产后虚弱，契合潮汕沿海潮湿气候与南洋热带环境需求。近代华侨“过番”时，常随身携带或托批局寄运黄德泰药酒，既是缓解劳作的保健饮品，也是慰藉乡愁的“家乡味道”。马来西亚槟城、印尼棉兰等地的老侨社至今仍保留饮用习惯，视其为“保命酒”。如今，传承人在保留古法窖藏核心的同时，引入现代检测技术确保重金属与微生物达标；并通过“药酒+潮汕美食”跨界合作，推出药酒炖鸡、药酒汤圆等食疗菜品，让这门承载着侨乡生存智慧的技艺融入当代健康生活，延续着“一坛药酒，半部过番史”的文化记忆。",
-      "en": "Huang Detai Medicinal Wine Making Craftsmanship is a Municipal ICH of Shantou, founded in the Guangxu era of the Qing Dynasty by the 'Huang Detai' pharmacy, passed down through five generations of the Huang family—it is a typical representative of traditional Chaoshan medicinal wine brewing. Core processes include 'selection, soaking, steaming, sealing, and aging': 16 dampness-dispelling and blood-activating herbs like angelica, ligusticum, and eucommia are selected, using local rice wine as a base; after three soakings and three steamings, the mixture is sealed in clay jars with lotus leaves and mud, aged for at least three years to fully infuse herbal properties into the wine, resulting in an amber color and mellow aroma. The wine treats rheumatic pain and postpartum weakness, aligning with Chaoshan's humid coastal climate and Nanyang's tropical environment. When early overseas Chinese went abroad, they often carried or sent Huang Detai wine via remittance bureaus—both a health tonic for labor relief and a 'hometown taste' to soothe nostalgia. Old overseas communities in Penang, Malaysia, and Medan, Indonesia, still maintain drinking habits, regarding it as a 'life-preserving wine'. Today, inheritors retain the core ancient cellar aging while introducing modern testing to ensure heavy metal and microbial compliance; through cross-border collaboration with 'medicinal wine + Chaoshan cuisine', they have launched food therapy dishes like medicinal wine stewed chicken and tangyuan, integrating this craft carrying Chaoshan survival wisdom into contemporary healthy living, continuing the cultural memory of 'a jar of medicinal wine, half the history of going abroad'.",
-      "zh-hant": "黃德泰藥酒製作技藝是汕頭市市級非物質文化遺產，始創於清光緒年間汕頭「黃德泰」藥行，由黃氏家族五代傳承，是潮汕傳統藥酒炮製技藝的典型代表。其核心工藝為「選、浸、蒸、封、陳」：精選當歸、川芎、杜仲等16味祛濕活血藥材，以本地米酒為基，經三浸三蒸後裝入陶甕，用荷葉、泥巴密封窖藏至少三年，使藥性充分融入酒體，色澤琥珀、醇香綿柔。該藥酒專治風濕痹痛、產後虛弱，契合潮汕沿海潮濕氣候與南洋熱帶環境需求。近代華僑「過番」時，常隨身攜帶或託批局寄運黃德泰藥酒，既是緩解勞作的保健飲品，也是慰藉鄉愁的「家鄉味道」。馬來西亞檳城、印尼棉蘭等地的老僑社至今仍保留飲用習慣，視其為「保命酒」。如今，傳承人在保留古法窖藏核心的同時，引入現代檢測技術確保重金屬與微生物達標；並通過「藥酒+潮汕美食」跨界合作，推出藥酒燉雞、藥酒湯圓等食療菜品，讓這門承載著僑鄉生存智慧的技藝融入當代健康生活，延續著「一壇藥酒，半部過番史」的文化記憶。"
+      "zh": "黄德泰药酒窖藏多年，供侨民缓解风湿不适。",
+      "en": "Huangdetai Medicinal Wine aged years for rheumatic relief.",
+      "zh-hant": "黃德泰藥酒窖藏多年，供僑民緩解風濕不適。"
     }
-  },
+},
     {
-    "id": "f3-10",
+    "id": "f3-09",
     "floor": 3,
     "name": {
       "zh": "李家教拳",
@@ -539,7 +525,7 @@ window.EXHIBIT_DATA = [
     }
   },
   {
-    "id": "f3-11",
+    "id": "f3-10",
     "floor": 3,
     "name": {
       "zh": "出花园习俗",
@@ -569,7 +555,7 @@ window.EXHIBIT_DATA = [
     }
   },
   {
-    "id": "f3-12",
+    "id": "f3-11",
     "floor": 3,
     "name": {
       "zh": "双忠信俗",
@@ -598,17 +584,17 @@ window.EXHIBIT_DATA = [
       "zh-hant": "雙忠信俗是國家級非物質文化遺產，祭祀唐代安史之亂中死守睢陽、壯烈殉國的張巡、許遠兩位忠臣，是潮汕地區流傳最廣、影響最深的英雄崇拜信俗。其核心儀式包含「遊神賽會」「英歌舞巡遊」「祭典演禮」三大板塊：每年農曆正月，潮陽各社頭組織雙忠神像巡遊，配屬英歌舞隊、大鑼鼓班、標旗陣，沿途民眾焚香祈福，場面恢弘壯觀；祭典嚴格遵循古禮，三獻禮、讀祝文、奏雅樂一應俱全，彰顯「忠義報國」的核心價值。該信俗隨潮汕移民傳播至東南亞，成為海外潮人維繫族群認同的精神紐帶——新加坡雙忠祠、馬來西亞檳城潮陽會館均以雙忠信仰為核心，每逢祭典，老僑領帶領青年一代行跪拜禮，講述忠義故事，強化「愛國愛鄉」的文化基因。如今，雙忠信俗已與文旅深度融合，潮陽「雙忠文化節」吸引數萬遊客參與；英歌舞作為信俗配套表演走紅全網，讓這一承載千年忠義精神的古老信俗突破地域限制，成為中華文化「忠義」價值觀的生動詮釋。"
     }
   },
-    {
-    "id": "f3-13",
+   {
+    "id": "f3-12",
     "floor": 3,
     "name": {
       "zh": "壁画",
-      "en": "Chaoshan Architectural Mural Painting",
+      "en": "Mural",
       "zh-hant": "壁畫"
     },
     "desc": {
       "zh": "墙上有戏，墨彩传神，潮汕古建中承载教化与审美的立体史书。",
-      "en": "Drama on the walls with vivid ink and color, a 3D history book carrying education and aesthetics in Chaoshan ancient architecture.",
+      "en": "Storytelling murals on Chaoshan ancestral hall walls.",
       "zh-hant": "牆上有戲，墨彩傳神，潮汕古建中承載教化與審美的立體史書。"
     },
     "level": {
@@ -623,22 +609,22 @@ window.EXHIBIT_DATA = [
     },
     "image": "images/f3/bihua.jpg",
     "detail": {
-      "zh": "潮汕壁画是广东省省级非物质文化遗产，作为潮汕传统建筑“三绝”之一，专指绘制于祠堂、庙宇及民居山墙、门楼内壁上的装饰性绘画。其工艺讲究“地仗、起稿、着色、罩油”四步：先在砖墙上抹灰泥打底，再以炭条勾勒轮廓，最后用矿物颜料上色并涂桐油保护，使画作历经百年风雨仍色泽鲜艳。题材分为“教化类”（二十四孝、忠义故事）与“祈福类”（松鹤延年、麒麟送子），兼具艺术审美与道德训诫功能。近代华侨回乡建宅时，必聘名师绘制壁画以彰显家风，许多海外潮人会馆也沿用此制，将《三国演义》《岳母刺字》等故事绘于厅堂，成为向后代传授中华价值观的“无声课堂”。如今，随着古建筑修缮工程增多，壁画技艺重获生机；传承人通过数字化扫描建立纹样数据库，并开发壁画文创丝巾、手机壳等产品，让这门“墙上的史书”从古老建筑走入现代生活。",
-      "en": "Chaoshan Architectural Mural Painting is a Provincial ICH of Guangdong, one of the 'Three Absolutes' of Chaoshan traditional architecture, referring specifically to decorative paintings on the gables and interior walls of ancestral halls, temples, and residences. The process follows four steps: 'base preparation, sketching, coloring, and oil coating'. Plaster is applied to brick walls first, then outlines are drawn with charcoal, followed by mineral pigment coloring and tung oil protection, ensuring vibrant colors for centuries. Themes include 'educational' (Twenty-Four Filial Exemplars, loyalty stories) and 'auspicious' (cranes and pines, qilin delivering sons), combining aesthetic value with moral instruction. When overseas Chinese returned to build homes, they hired masters to paint murals showcasing family values; many overseas Chaoshan associations adopted this practice, painting stories like Romance of the Three Kingdoms and Yue Fei's Mother Tattooing His Back in halls as 'silent classrooms' teaching Chinese values to younger generations. Today, with increased ancient building restoration, mural craftsmanship has revived; inheritors have established pattern databases through digital scanning and developed cultural products like mural-patterned scarves and phone cases, bringing this 'history book on walls' from ancient architecture into modern life.",
-      "zh-hant": "潮汕壁畫是廣東省省級非物質文化遺產，作為潮汕傳統建築「三絕」之一，專指繪製於祠堂、廟宇及民居山牆、門樓內壁上的裝飾性繪畫。其工藝講究「地仗、起稿、著色、罩油」四步：先在磚牆上抹灰泥打底，再以炭條勾勒輪廓，最後用礦物顏料上色並塗桐油保護，使畫作歷經百年風雨仍色澤鮮豔。題材分為「教化類」（二十四孝、忠義故事）與「祈福類」（松鶴延年、麒麟送子），兼具藝術審美與道德訓誡功能。近代華僑回鄉建宅時，必聘名師繪製壁畫以彰顯家風，許多海外潮人會館也沿用此制，將《三國演義》《岳母刺字》等故事繪於廳堂，成為向後代傳授中華價值觀的「無聲課堂」。如今，隨著古建築修繕工程增多，壁畫技藝重獲生機；傳承人通過數位化掃描建立紋樣資料庫，並開發壁畫文創絲巾、手機殼等產品，讓這門「牆上的史書」從古老建築走入現代生活。"
+      "zh": "潮汕祠堂庙宇传统壁画，教化民俗故事。",
+      "en": "Traditional murals decorate Chaoshan temples with moral tales.",
+      "zh-hant": "潮汕祠堂廟宇傳統壁畫，描繪教化民俗故事。"
     }
-  },
+},
   {
-    "id": "f3-14",
+    "id": "f3-13",
     "floor": 3,
     "name": {
       "zh": "楹联习俗",
-      "en": "Couplet Custom",
+      "en": "Couplets",
       "zh-hant": "楹聯習俗"
     },
     "desc": {
       "zh": "门楣载道，笔墨凝魂，潮汕人刻在建筑上的家族格言与文化身份证。",
-      "en": "Morals on lintels and soul in brushstrokes, family mottos and cultural ID cards carved onto Chaoshan architecture.",
+      "en": "Family motto couplets carved on Chaoshan building lintels.",
       "zh-hant": "門楣載道，筆墨凝魂，潮汕人刻在建築上的家族格言與文化身份證。"
     },
     "level": {
@@ -653,22 +639,22 @@ window.EXHIBIT_DATA = [
     },
     "image": "images/f3/yinglian.jpg",
     "detail": {
-      "zh": "楹联习俗是汕头市市级非物质文化遗产，是潮汕地区独特的文学与书法结合体，广泛应用于祠堂、庙宇、民居及商铺的门柱、厅堂之上。其核心特征为“因地制联、因事撰联”：祠堂楹联多追溯郡望源流、颂扬先祖功德（如“颍川世泽，太丘家声”）；民居楹联侧重家训家风、耕读传家（如“诗礼传家久，忠孝继世长”）；节庆楹联则紧扣时令、祈福纳祥。书写多用楷书或行书，镌刻于木石或直接墨书于墙，既是建筑装饰，更是家族文化的“公开宣言”。近代华侨在海外建会馆、宗祠时，必请家乡文人撰写楹联，将祖籍地的郡望、家训移植异国，成为海外潮人确认族群身份的“文化密码”。如今，汕头小公园历史文化街区修复工程中，数百副老楹联被重新发掘整理；当地中小学开设“楹联进校园”课程，让学生学习撰联、书写，让这一承载着潮汕人精神追求的古老习俗在新时代延续文脉。",
-      "en": "Couplet Custom is a Municipal ICH of Shantou, a unique combination of literature and calligraphy widely used on pillars and halls of ancestral halls, temples, residences, and shops in Chaoshan. Its core feature is 'context-specific composition': ancestral hall couplets trace clan origins and praise ancestors (e.g., 'Legacy of Yingchuan, Reputation of Taiqiu'); residential couplets emphasize family teachings and scholarly-farming traditions (e.g., 'Poetry and rites sustain the family long, loyalty and filial piety continue through generations'); festival couplets align with seasons and pray for blessings. Written mostly in regular or running script, carved on wood/stone or painted directly on walls, they serve as both architectural decoration and 'public declarations' of clan culture. When overseas Chinese built association halls and ancestral temples abroad, they invited scholars from home to compose couplets, transplanting ancestral origins and family teachings to foreign lands as 'cultural codes' confirming ethnic identity. Today, during the restoration of Shantou Xiaogongyuan Historical and Cultural District, hundreds of old couplets have been rediscovered and compiled; local schools offer 'couplets on campus' courses teaching students to compose and write, allowing this ancient custom carrying Chaoshan people's spiritual pursuit to continue its literary lineage in the new era.",
-      "zh-hant": "楹聯習俗是汕頭市市級非物質文化遺產，是潮汕地區獨特的文學與書法結合體，廣泛應用於祠堂、廟宇、民居及商鋪的門柱、廳堂之上。其核心特徵為「因地制聯、因事撰聯」：祠堂楹聯多追溯郡望源流、頌揚先祖功德（如「潁川世澤，太丘家聲」）；民居楹聯側重家訓家風、耕讀傳家（如「詩禮傳家久，忠孝繼世長」）；節慶楹聯則緊扣時令、祈福納祥。書寫多用楷書或行書，鐫刻於木石或直接墨書於牆，既是建築裝飾，更是家族文化的「公開宣言」。近代華僑在海外建會館、宗祠時，必請家鄉文人撰寫楹聯，將祖籍地的郡望、家訓移植異國，成為海外潮人確認族群身份的「文化密碼」。如今，汕頭小公園歷史文化街區修復工程中，數百副老楹聯被重新發掘整理；當地中小學開設「楹聯進校園」課程，讓學生學習撰聯、書寫，讓這一承載著潮汕人精神追求的古老習俗在新時代延續文脈。"
+      "zh": "祠堂民居楹联记录郡望与家风。",
+      "en": "Couplets record clan origin and family virtues.",
+      "zh-hant": "祠堂民居楹聯記錄郡望與家風。"
     }
-  },
+},
   {
-    "id": "f3-15",
+    "id": "f3-14",
     "floor": 3,
     "name": {
       "zh": "潮剧盔头制作技艺",
-      "en": "Chao Opera Helmet Craftsmanship",
+      "en": "Teochew Opera Helmet",
       "zh-hant": "潮劇盔頭製作技藝"
     },
     "desc": {
       "zh": "珠翠堆叠，金碧辉煌，潮汕戏曲舞台上角色身份与视觉美学的灵魂载体。",
-      "en": "Stacked pearls and jade with golden brilliance, the soul carrier of character identity and visual aesthetics on the Chao Opera stage.",
+      "en": "Gilded decorative headgear for Teochew opera performers.",
       "zh-hant": "珠翠堆疊，金碧輝煌，潮汕戲曲舞台上角色身份與視覺美學的靈魂載體。"
     },
     "level": {
@@ -683,13 +669,13 @@ window.EXHIBIT_DATA = [
     },
     "image": "images/f3/kuitou.jpg",
     "detail": {
-      "zh": "潮剧盔头制作技艺是广东省省级非物质文化遗产，专为潮剧表演制作冠、帽、盔、巾等头部饰物，是潮剧视觉体系的核心组成部分。其工艺极为繁复，需经“量头、制胎、裱纸、上漆、贴金、点翠、串珠”七道工序：以竹篾或纸板制胎，裱上多层棉纸增强韧性，再髹漆贴金箔，最后镶嵌玻璃珠、绒球、点翠（现改用仿点翠）等装饰。不同角色对应严格规制：帝王戴“平天冠”，武将戴“帅盔”，花旦戴“凤冠”，小生戴“文生巾”，每一处纹样、颜色皆有象征意义。近代潮剧随华侨远播东南亚，盔头匠人也随之出海，为新加坡、泰国等地的潮剧团定制行头，成为海外潮剧传承的物质基础。如今，传承人林婉如等在保留传统规制的同时，改良材料减轻重量、增加舒适度，并开发迷你盔头摆件、书签等文创产品；潮剧盔头还频繁亮相央视春晚、非遗展演，让这门“头顶上的艺术”从戏台走向大众视野，延续着潮汕戏曲的美学基因。",
-      "en": "Chao Opera Helmet Craftsmanship is a Provincial ICH of Guangdong, specializing in making headwear (crowns, hats, helmets, caps) for Chao Opera performances—it is the core component of Chao Opera's visual system. The process is highly complex, requiring seven steps: 'measuring, base making, paper pasting, lacquering, gold leafing, kingfisher feather inlay, and bead stringing'. Bases are made of bamboo strips or cardboard, layered with cotton paper for toughness, then lacquered and gilded, finally decorated with glass beads, pompoms, and faux kingfisher feathers. Different roles follow strict rules: emperors wear 'Pingtian Crowns', generals wear 'Commander Helmets', huadan wear 'Phoenix Crowns', and xiaosheng wear 'Scholar Caps'—every pattern and color carries symbolic meaning. As Chao Opera spread to Southeast Asia with overseas Chinese, helmet artisans followed, customizing costumes for troupes in Singapore and Thailand, providing material support for overseas Chao Opera inheritance. Today, inheritors like Lin Wanru retain traditional rules while improving materials to reduce weight and increase comfort, developing mini helmet ornaments and bookmarks as cultural products; Chao Opera helmets frequently appear on CCTV Spring Festival Galas and ICH exhibitions, bringing this 'art on heads' from stages to public view, continuing the aesthetic genes of Chaoshan opera.",
-      "zh-hant": "潮劇盔頭製作技藝是廣東省省級非物質文化遺產，專為潮劇表演製作冠、帽、盔、巾等頭部飾物，是潮劇視覺體系的核心組成部分。其工藝極為繁複，需經「量頭、制胎、裱紙、上漆、貼金、點翠、串珠」七道工序：以竹篾或紙板制胎，裱上多層棉紙增強韌性，再髹漆貼金箔，最後鑲嵌玻璃珠、絨球、仿點翠等裝飾。不同角色對應嚴格規制：帝王戴「平天冠」，武將戴「帥盔」，花旦戴「鳳冠」，小生戴「文生巾」，每一處紋樣、顏色皆有象徵意義。近代潮劇隨華僑遠播東南亞，盔頭匠人也隨之出海，為新加坡、泰國等地的潮劇團定制行頭，成為海外潮劇傳承的物質基礎。如今，傳承人林婉如等在保留傳統規制的同時，改良材料減輕重量、增加舒適度，並開發迷你盔頭擺件、書籤等文創產品；潮劇盔頭還頻繁亮相央視春晚、非遺展演，讓這門「頭頂上的藝術」從戲台走向大眾視野，延續著潮汕戲曲的美學基因。"
+      "zh": "潮剧专用冠帽，金箔珠饰精工制作。",
+      "en": "Elaborate gilded headwear for Teochew opera.",
+      "zh-hant": "潮劇專用冠帽，金箔珠飾精工製作。"
     }
-  },
+},
     {
-    "id": "f3-16",
+    "id": "f3-15",
     "floor": 3,
     "name": {
       "zh": "澄海鱼灯赛会",
@@ -719,7 +705,7 @@ window.EXHIBIT_DATA = [
     }
   },
   {
-    "id": "f3-17",
+    "id": "f3-16",
     "floor": 3,
     "name": {
       "zh": "珍珠娘娘信俗",
@@ -749,16 +735,16 @@ window.EXHIBIT_DATA = [
     }
   },
   {
-    "id": "f3-18",
+    "id": "f3-17",
     "floor": 3,
     "name": {
       "zh": "潮汕善堂习俗",
-      "en": "Chaoshan Shantang (Charity Hall) Custom",
+      "en": "Charity Hall",
       "zh-hant": "潮汕善堂習俗"
     },
     "desc": {
       "zh": "济世利人，义贯寰宇，潮汕独有民间慈善组织与全球潮人互助网络的基石。",
-      "en": "Serving humanity with universal righteousness, a unique Chaoshan folk charity organization and cornerstone of global Teochew mutual aid networks.",
+      "en": "Unique Chaoshan folk charity organizations spreading worldwide.",
       "zh-hant": "濟世利人，義貫寰宇，潮汕獨有民間慈善組織與全球潮人互助網絡的基石。"
     },
     "level": {
@@ -773,13 +759,13 @@ window.EXHIBIT_DATA = [
     },
     "image": "images/f3/shantang.jpg",
     "detail": {
-      "zh": "潮汕善堂习俗是国家级非物质文化遗产，指潮汕地区特有的民间慈善组织“善堂”及其衍生的济困、施医、助学、救灾等公益实践，被誉为“中国民间慈善的活标本”。善堂起源于宋元时期大峰祖师信仰，清末民初在潮汕达到鼎盛，形成“存心、诚敬、乐善”等数百座善堂网络，其运作模式为“商绅捐资、义工服务、账目公开”，服务内容涵盖施粥赠药、收殓无主尸骸、兴办义学、赈济灾荒等。近代华侨将善堂制度移植海外，新加坡中华医院、泰国报德善堂、马来西亚槟城韩江家庙附属善堂等，均以潮汕善堂为蓝本建立，成为海外潮人落地生根、互助自救的核心平台。二战期间，南洋善堂曾大规模救助难侨、支援祖国抗战，彰显“义贯寰宇”的精神。如今，潮汕本土善堂转型为注册公益组织，承接政府购买服务；海外善堂则发展为综合性社会福利机构，持续资助家乡教育医疗事业。2024年，“潮汕善堂文化”被列入联合国教科文组织人类非物质文化遗产代表作名录预备名单，标志着这一跨越国界的慈善文明获得国际认可。",
-      "en": "Chaoshan Shantang Custom is a National ICH, referring to the unique folk charity organization 'Shantang' in Chaoshan and its derived public welfare practices including poverty relief, medical aid, education support, and disaster response—hailed as a 'living specimen of Chinese folk charity'. Originating from Master Dafeng's belief in the Song-Yuan era, it peaked in late Qing-early Republic with hundreds of halls like Cunxin and Chengjing, operating on 'merchant-gentry donations, volunteer service, transparent accounts', providing congee, medicine, burial services, free schools, and famine relief. Overseas Chinese transplanted this system abroad; Singapore Chinese Hospital, Thailand Poh Teck Tung Foundation, and Penang Han Chiang Clan Association's affiliated hall were all modeled on Chaoshan Shantang, becoming core platforms for expatriates to settle and support each other. During WWII, Nanyang halls massively rescued refugees and supported China's war effort, embodying 'universal righteousness'. Today, domestic halls have transformed into registered NGOs undertaking government-purchased services; overseas halls evolved into comprehensive social welfare institutions, continuously funding hometown education and healthcare. In 2024, 'Chaoshan Shantang Culture' was added to UNESCO's tentative list for Intangible Cultural Heritage, marking international recognition of this cross-border charitable civilization.",
-      "zh-hant": "潮汕善堂習俗是國家級非物質文化遺產，指潮汕地區特有的民間慈善組織「善堂」及其衍生的濟困、施醫、助學、救災等公益實踐，被譽為「中國民間慈善的活標本」。善堂起源於宋元時期大峰祖師信仰，清末民初在潮汕達到鼎盛，形成「存心、誠敬、樂善」等數百座善堂網絡，其運作模式為「商紳捐資、義工服務、賬目公開」，服務內容涵蓋施粥贈藥、收殮無主屍骸、興辦義學、賑濟災荒等。近代華僑將善堂制度移植海外，新加坡中華醫院、泰國報德善堂、馬來西亞檳城韓江家廟附屬善堂等，均以潮汕善堂為藍本建立，成為海外潮人落地生根、互助自救的核心平台。二戰期間，南洋善堂曾大規模救助難僑、支援祖國抗戰，彰顯「義貫寰宇」的精神。如今，潮汕本土善堂轉型為註冊公益組織，承接政府購買服務；海外善堂則發展為綜合性社會福利機構，持續資助家鄉教育醫療事業。2024年，「潮汕善堂文化」被列入聯合國教科文組織人類非物質文化遺產代表作名錄預備名單，標誌著這一跨越國界的慈善文明獲得國際認可。"
+      "zh": "善堂施医济贫，海外潮社同步建立善堂。",
+      "en": "Charity halls provide medical aid and poverty relief globally.",
+      "zh-hant": "善堂施醫濟貧，海外潮社同步建立善堂。"
     }
-  },
+},
    {
-      id: 'f3-19',
+      id: 'f3-18',
       floor: 3,
       name: { zh: '瓶内画', 'zh-hant': '瓶內畫', en: 'Inside-Painted Bottle' },
       desc: { zh: '以特制弯头毛笔在鼻烟壶内壁作画，方寸之间尽显乾坤。', 'zh-hant': '以特製彎頭毛筆在鼻煙壺內壁作畫，方寸之間盡顯乾坤。', en: 'Painting on the inner wall of snuff bottles with a special bent brush, creating a universe within a tiny space.' },
@@ -789,7 +775,7 @@ window.EXHIBIT_DATA = [
       detail: { zh: '汕头瓶内画是潮汕地区独有的传统美术技艺，需将特制弯头毛笔伸入透明鼻烟壶内壁反向作画，对画师眼力、腕力要求极高。题材涵盖山水、人物、花鸟，作品小巧精致，兼具观赏与收藏价值，是潮汕民间美术的瑰宝。', 'zh-hant': '汕頭瓶內畫是潮汕地區獨有的傳統美術技藝，需將特製彎頭毛筆伸入透明鼻煙壺內壁反向作畫，對畫師眼力、腕力要求極高。題材涵蓋山水、人物、花鳥，作品小巧精緻，兼具觀賞與收藏價值，是潮汕民間美術的瑰寶。', en: 'Shantou inside-painted bottle is a unique traditional art form in the Chaoshan region. Artists use a special bent brush to paint in reverse on the inner wall of transparent snuff bottles, requiring exceptional eyesight and wrist control. Themes include landscapes, figures, and flowers, making each piece a delicate collectible and a treasure of Chaoshan folk art.' }
     },
   {
-    id: 'f3-20',
+    id: 'f3-19',
     floor: 3,
     name: { zh: '微陶瓷书', en: 'Micro Porcelain Calligraphy', 'zh-hant': '微陶瓷書' },
     desc: { zh: '瓷上蝇头，毫厘千钧，潮汕陶瓷文化与书法艺术融合的极致微雕。', en: 'Fly-head script on porcelain, a fusion of Chaoshan ceramics and calligraphy in ultimate micro-carving.', 'zh-hant': '瓷上蠅頭，毫釐千鈞，潮汕陶瓷文化與書法藝術融合的極致微雕。' },
@@ -803,7 +789,7 @@ window.EXHIBIT_DATA = [
     }
   },
   {
-    id: 'f3-21',
+    id: 'f3-20',
     floor: 3,
     name: { zh: '潮阳剪纸', en: 'Chaoyang Paper Cutting', 'zh-hant': '潮陽剪紙' },
     desc: { zh: '阴阳相生，线线相连，潮汕祭祀与婚嫁中不可或缺的吉祥符号体系。', en: 'Yin-yang interplay with connected lines, an indispensable auspicious symbol system for Chaoshan rituals and weddings.', 'zh-hant': '陰陽相生，線線相連，潮汕祭祀與婚嫁中不可或缺的吉祥符號體系。' },
@@ -817,21 +803,21 @@ window.EXHIBIT_DATA = [
     }
   },
   {
-    id: 'f3-22',
+    id: 'f3-21',
     floor: 3,
-    name: { zh: '外砂织席技艺', en: 'Waisa Mat Weaving Craftsmanship', 'zh-hant': '外砂織席技藝' },
+    name: { zh: '外砂织席技艺', en: 'Waisa Mat Weaving', 'zh-hant': '外砂織席技藝' },
     desc: { zh: '草茎经纬，凉润百年，潮汕农耕智慧与侨乡夏日记忆的编织载体。', en: 'Grass stems woven into century-old coolness, a carrier of Chaoshan agricultural wisdom and summer memories.', 'zh-hant': '草莖經緯，涼潤百年，潮汕農耕智慧與僑鄉夏日記憶的編織載體。' },
     level: { zh: '市级', en: 'Municipal', 'zh-hant': '市級' },
     region: { zh: '汕头市龙湖区', en: 'Longhu, Shantou', 'zh-hant': '汕頭市龍湖區' },
     image: 'images/f3/waisha.jpg',
     detail: {
       zh: '外砂织席技艺是汕头市市级非物质文化遗产，发源于龙湖区外砂街道，以本地特产“咸水草”为原料，经收割、晾晒、分拣、染色、编织等十余道纯手工工序制成。其核心特色为“凉而不冰、韧而不硬、吸湿透气”：匠人以人字形或回字形编法织出密实席面，成品可折叠卷曲而不断裂，使用寿命长达数十年。清末民初，外砂草席随华侨远销东南亚，因适应热带湿热气候且价格亲民，成为南洋劳工家庭必备寝具，“睡外砂席”是几代海外潮人的共同夏日记忆。1950年代鼎盛期，外砂“家家有织机，户户闻席声”，年产草席超百万条。如今，虽受空调与合成材料冲击，但传承人林锡耀等改良染色工艺推出彩色花纹席，并开发茶席、坐垫、文创包袋等新品类；外砂织席还作为“侨乡记忆”展品入驻汕头华侨博物馆，让这门承载着农耕智慧与跨国生活史的技艺在当代找到新定位。',
-      en: 'Waisa Mat Weaving Craftsmanship is a Municipal ICH of Shantou, originating in Waisa Subdistrict, Longhu District, using local saltwater grass as raw material through over ten manual steps including harvesting, sun-drying, sorting, dyeing, and weaving. Core features are "cool but not icy, tough but not stiff, moisture-absorbent and breathable": artisans weave dense mats in herringbone or square-spiral patterns, foldable without breaking and lasting decades. In late Qing-early Republic era, Waisa mats were exported to Southeast Asia via overseas Chinese; adapted to tropical humidity and affordable, they became essential bedding for Nanyang laborers—"sleeping on Waisa mats" is a shared summer memory for generations of overseas Chaoshan people. Peaking in the 1950s with "every home having a loom, every household hearing weaving sounds", annual output exceeded one million mats. Though challenged by air conditioning and synthetic materials today, inheritors like Lin Xiyao improved dyeing for colorful patterns and developed new categories like tea mats, cushions, and cultural bags; Waisa weaving also serves as an "overseas Chinese memory" exhibit at Shantou Overseas Chinese Museum, repositioning this craft carrying agricultural wisdom and transnational living history in contemporary times.',
+      en: 'Waisa Mat Weaving Craftsmanship is a Municipal ICH of Shantou, originating in Waisa Subdistrict, Longhu District, using local saltwater grass as raw material through over ten manual steps including harvesting, sun-drying, sorting, dyeing, and weaving. Core features are "cool but not icy, tough but not stiff, moisture-absorbent and breathable": artisans weave dense mats in herringbone or square-spiral patterns, foldable without breaking and lasting decades. In late Qing-early Republic era, Waisa mats were exported to Southeast Asia via overseas Chinese; adapted to tropical humidity and affordable, they became essential bedding for Nanyang laborers—"sleeping on Waisa mats" is a shared summer memory for generations of overseas Chaoshan people. Peaking in the 1950s with "every home having a loom, every household hearing weaving sounds", annual output exceeded one million mats. Though challenged by air conditioning and synthetic materials today, inheritors like Lin Xiyao improved dyeing for colorful patterns and developed new categories like tea mats, cushions, cultural bags; Waisa weaving also serves as an "overseas Chinese memory" exhibit at Shantou Overseas Chinese Museum, repositioning this craft carrying agricultural wisdom and transnational living history in contemporary times.',
       'zh-hant': '外砂織席技藝是汕頭市市級非物質文化遺產，發源於龍湖區外砂街道，以本地特產「鹹水草」為原料，經收割、晾曬、分揀、染色、編織等十餘道純手工工序製成。其核心特色為「涼而不冰、韌而不硬、吸濕透氣」：匠人以人字形或回字形編法織出密實席面，成品可折疊捲曲而不斷裂，使用壽命長達數十年。清末民初，外砂草席隨華僑遠銷東南亞，因適應熱帶濕熱氣候且價格親民，成為南洋勞工家庭必備寢具，「睡外砂席」是幾代海外潮人的共同夏日記憶。1950年代鼎盛期，外砂「家家有織機，戶戶聞席聲」，年產草席超百萬條。如今，雖受空調與合成材料衝擊，但傳承人林錫耀等改良染色工藝推出彩色花紋席，並開發茶席、坐墊、文創包袋等新類別；外砂織席還作為「僑鄉記憶」展品入駐汕頭華僑博物館，讓這門承載著農耕智慧與跨國生活史的技藝在當代找到新定位。'
     }
-  },
+},
   {
-    id: 'f3-23',
+    id: 'f3-22',
     floor: 3,
     name: { zh: '贵屿朥饼', en: 'Guiyu Lard Cake', 'zh-hant': '貴嶼朥餅' },
     desc: { zh: '酥皮层叠，猪油润香，潮汕中秋祭月与侨眷团圆的百年味觉信物。', en: 'Layered flaky crust with lard fragrance, a century-old taste token for Mid-Autumn moon worship and family reunion.', 'zh-hant': '酥皮層疊，豬油潤香，潮汕中秋祭月與僑眷團圓的百年味覺信物。' },
@@ -845,31 +831,7 @@ window.EXHIBIT_DATA = [
     }
   },
   {
-        id: 'f3-24',
-        floor: 3,
-        name: { zh: '潮式月饼制作技艺', 'zh-hant': '潮式朥餅製作技藝', en: 'Chaoshan-style Mooncake Making Technique' },
-        desc: { zh: '又称朥饼，以猪油起酥，馅料多为绿豆沙、乌豆沙。', 'zh-hant': '又稱朥餅，以豬油起酥，餡料多為綠豆沙、烏豆沙。', en: 'Also known as Laobing, it uses lard for flaky pastry and fillings like mung bean or black bean paste.' },
-        level: { zh: '省级', 'zh-hant': '省級', en: 'Provincial' },
-        region: { zh: '汕头市', 'zh-hant': '汕頭市', en: 'Shantou City' },
-        image: 'images/f3/chaoshiyuebing.jpg',
-        detail: { zh: '潮式月饼又称朥饼，是潮汕地区中秋节的必备食品。其外皮以猪油（潮汕称“朥”）和面粉层层叠压而成，酥脆掉渣；内馅以绿豆沙、乌豆沙为主，甜而不腻。制作时需掌握“开酥”“包馅”“烘烤”等关键工序，成品皮薄馅足，是潮汕节庆饮食文化的重要载体。', 'zh-hant': '潮式月餅又稱朥餅，是潮汕地區中秋節的必備食品。其外皮以豬油（潮汕稱「朥」）和麵粉層層疊壓而成，酥脆掉渣；內餡以綠豆沙、烏豆沙為主，甜而不膩。製作時需掌握「開酥」「包餡」「烘烤」等關鍵工序，成品皮薄餡足，是潮汕節慶飲食文化的重要載體。', en: 'Chaoshan-style mooncake, also known as Laobing, is an essential food for the Mid-Autumn Festival in Chaoshan. Its flaky crust is made by layering lard (called "Lao" in Chaoshan dialect) and flour, while the filling is primarily mung bean or black bean paste, sweet but not greasy. Key techniques include laminating, wrapping, and baking, resulting in a thin-crust, rich-filled pastry that carries the festive food culture of Chaoshan.' } // ✅ 修正：detail.zh-hant 中「朥糕」→「朥餅」
-  },
-  {
-    id: 'f3-25',
-    floor: 3,
-    name: { zh: '潮式朥饼', en: 'Chaoshan Lard Cake', 'zh-hant': '潮式朥餅' },
-    desc: { zh: '猪油起酥，古法炭焙，潮汕茶配文化与侨乡待客之道的甜蜜载体。', en: 'Lard-flaked and charcoal-baked, a sweet carrier of Chaoshan tea pairing culture and hospitality.', 'zh-hant': '豬油起酥，古法炭焙，潮汕茶配文化與僑鄉待客之道的甜蜜載體。' },
-    level: { zh: '市级', en: 'Municipal', 'zh-hant': '市級' },
-    region: { zh: '汕头市/潮州市', en: 'Shantou/Chaozhou', 'zh-hant': '汕頭市/潮州市' },
-    image: 'images/f3/chaoshilaobing.jpg',
-    detail: {
-      zh: '潮式朥饼是汕头市市级非物质文化遗产，泛指潮汕地区以猪油开酥制作的各类传统酥饼，是工夫茶“茶配”（佐茶点心）的核心品类。其与“潮式月饼”同源异流：月饼专用于中秋祭月，形制较大、馅料固定；朥饼则为日常茶食，尺寸小巧、口味多样（除豆沙外还有冬瓜册、芝麻、花生等），全年供应。制作强调“现烤现卖”：匠人以传统炭炉控温，使饼皮受热均匀、酥层分明，出炉时香气四溢，搭配浓酽工夫茶可解腻增香。在潮汕，无论自家待客还是侨胞返乡探亲，一盘刚出炉的朥饼配一壶热茶，便是最高规格的“家乡礼遇”。近代华侨在南洋开设饼铺，将朥饼作为日常茶点推广，使其成为海外潮人生活中不可或缺的“甜蜜日常”。如今，传承人结合现代烤箱提升效率，同时保留炭焙风味；朥饼还被纳入“潮汕茶文化旅游线路”，让游客在品茶尝饼中体验地道的侨乡生活美学。',
-      en: 'Chaoshan Lard Cake is a Municipal ICH of Shantou, referring broadly to traditional flaky pastries made with lard in Chaoshan—a core category of Gongfu Tea "tea pairings" (accompaniments). Sharing origins with Chaoshan mooncakes but differing in function: mooncakes are for Mid-Autumn worship, larger with fixed fillings; lard cakes are daily tea snacks, smaller with diverse flavors (winter melon, sesame, peanut besides bean paste), available year-round. Emphasizing "freshly baked and sold": artisans use traditional charcoal ovens for even heating and distinct flaky layers, releasing aromatic scents when hot; paired with strong Gongfu tea, they cut greasiness and enhance fragrance. In Chaoshan, whether hosting guests or welcoming returning expatriates, a plate of fresh lard cake with hot tea represents the highest "hometown hospitality". Overseas Chinese opened bakeries in Nanyang, promoting lard cakes as daily tea points, making them an indispensable "sweet routine" for expatriates. Today, inheritors combine modern ovens for efficiency while retaining charcoal-roasted flavor; lard cakes are included in "Chaoshan tea culture tourism routes", allowing visitors to experience authentic overseas Chinese lifestyle aesthetics through tea tasting and pastry sampling.',
-      'zh-hant': '潮式朥餅是汕頭市市級非物質文化遺產，泛指潮汕地區以豬油開酥製作的各類傳統酥餅，是工夫茶「茶配」（佐茶點心）的核心品類。其與「潮式月餅」同源異流：月餅專用於中秋祭月，形制較大、餡料固定；朥餅則為日常茶食，尺寸小巧、口味多樣（除豆沙外還有冬瓜冊、芝麻、花生等），全年供應。製作強調「現烤現賣」：匠人以傳統炭爐控溫，使餅皮受熱均勻、酥層分明，出爐時香氣四溢，搭配濃釅工夫茶可解膩增香。在潮汕，無論自家待客還是僑胞返鄉探親，一盤剛出爐的朥餅配一壺熱茶，便是最高規格的「家鄉禮遇」。近代華僑在南洋開設餅鋪，將朥餅作為日常茶點推廣，使其成為海外潮人生活中不可或缺的「甜蜜日常」。如今，傳承人結合現代烤箱提升效率，同時保留炭焙風味；朥餅還被納入「潮汕茶文化旅遊線路」，讓遊客在品茶嘗餅中體驗地道的僑鄉生活美學。'
-    }
-  },
-  {
-    id: 'f3-26',
+    id: 'f3-23',
     floor: 3,
     name: { zh: '佛手果制作技艺', en: 'Bergamot Fruit Processing Craftsmanship', 'zh-hant': '佛手果製作技藝' },
     desc: { zh: '九制陈化，甘润化痰，潮汕药食同源智慧与侨眷养生记忆的金色果实。', en: 'Nine-process aged with moistening phlegm-relief, a golden fruit of Chaoshan medicinal-food wisdom and health memories.', 'zh-hant': '九製陳化，甘潤化痰，潮汕藥食同源智慧與僑眷養生記憶的金色果實。' },
@@ -883,7 +845,7 @@ window.EXHIBIT_DATA = [
     }
   },
   {
-        id: 'f3-27',
+        id: 'f3-24',
         floor: 3,
         name: { zh: '潮汕卤鹅制作技艺', 'zh-hant': '潮汕滷鵝製作技藝', en: 'Chaoshan Braised Goose Making Technique' },
         desc: { zh: '以南姜、蒜头为核心香料，卤汁醇厚，鹅肉咸香入味。', 'zh-hant': '以南薑、蒜頭為核心香料，滷汁醇厚，鵝肉鹹香入味。', en: 'Uses galangal and garlic as core spices, with a rich brine that infuses the goose meat with savory flavor.' }, // ✅ 修正：desc.zh 中“南姜八角”→“南姜蒜头”
@@ -893,7 +855,7 @@ window.EXHIBIT_DATA = [
         detail: { zh: '潮汕卤鹅是潮汕饮食文化的标志性菜品，选用本地狮头鹅为原料，以南姜、蒜头为核心香料，搭配酱油、冰糖等熬制卤汁。卤制时需控制火候与时间，使鹅肉充分吸收卤香，成品色泽红亮，肉质紧实不柴，卤汁可反复使用，越陈越香。既是日常餐桌佳肴，也是祭祀、宴请的必备菜品。', 'zh-hant': '潮汕滷鵝是潮汕飲食文化的標誌性菜品，選用本地獅頭鵝為原料，以南薑、蒜頭為核心香料，搭配醬油、冰糖等熬製滷汁。滷製時需控制火候與時間，使鵝肉充分吸收滷香，成品色澤紅亮，肉質緊實不柴，滷汁可反覆使用，越陳越香。既是日常餐桌佳餚，也是祭祀、宴請的必備菜品。', en: 'Chaoshan braised goose is an iconic dish of Chaoshan cuisine, using local lion-head goose as the main ingredient. The brine is simmered with galangal, garlic, soy sauce, and rock sugar as core components. Precise heat and timing control ensure the meat fully absorbs the aroma, resulting in a glossy red color and firm yet tender texture. The brine can be reused repeatedly, becoming more flavorful over time. It is both a daily delicacy and an essential dish for rituals and banquets.' }
     },
   {
-    id: 'f3-28',
+    id: 'f3-25',
     floor: 3,
     name: { zh: '潮汕粿品制作技艺', en: 'Chaoshan Kueh Making Craftsmanship', 'zh-hant': '潮汕粿品製作技藝' },
     desc: { zh: '米浆为魂，时令为序，潮汕岁时节令与人生礼仪的 edible calendar。', en: 'Rice batter soul and seasonal rhythm, an edible calendar for Chaoshan festivals and life rituals.', 'zh-hant': '米漿為魂，時令為序，潮汕歲時節令與人生禮儀的食用日曆。' },
@@ -907,7 +869,7 @@ window.EXHIBIT_DATA = [
     }
   },
   {
-        id: 'f3-29',
+        id: 'f3-26',
         floor: 3,
         name: { zh: '潮汕老菜脯制作技艺', 'zh-hant': '潮汕老菜脯製作技藝', en: 'Chaoshan Aged Radish Preserves Making Technique' },
         desc: { zh: '经多年陈化，色泽乌黑油亮，被誉为“潮汕黑金”。', 'zh-hant': '經多年陳化，色澤烏黑油亮，被譽為「潮汕黑金」。', en: 'Aged for years until dark and glossy, known as the "treasure of Chaoshan culinary heritage".' }, // ✅ 修正：detail.en 中“black gold of survival wisdom”→“treasure of Chaoshan culinary heritage”
@@ -917,7 +879,7 @@ window.EXHIBIT_DATA = [
         detail: { zh: '潮汕老菜脯是以白萝卜为原料，经盐腌、晾晒、陈化等多道工序制成的传统佐餐小菜。优质老菜脯需陈化5年以上，色泽乌黑油亮，质地软糯，咸香回甘，具有消食开胃的功效。既是潮汕人日常配粥的“灵魂伴侣”，也是烹饪鱼、肉时的提鲜佳品，承载着潮汕人的味觉记忆与生活智慧。', 'zh-hant': '潮汕老菜脯是以白蘿蔔為原料，經鹽醃、晾曬、陳化等多道工序製成的傳統佐餐小菜。優質老菜脯需陳化5年以上，色澤烏黑油亮，質地軟糯，鹹香回甘，具有消食開胃的功效。既是潮汕人日常配粥的「靈魂伴侶」，也是烹飪魚、肉時的提鮮佳品，承載著潮汕人的味覺記憶與生活智慧。', en: 'Chaoshan aged radish preserves are a traditional side dish made from white radishes through salting, sun-drying, and aging. Premium preserves require over 5 years of aging, developing a dark glossy color, soft texture, and salty-sweet flavor that aids digestion. They are not only the "soul mate" of Chaoshan people\'s daily congee but also a flavor enhancer for fish and meat dishes, carrying the taste memories and life wisdom of the Chaoshan community.' }
     },
   {
-    id: 'f3-30',
+    id: 'f3-27',
     floor: 3,
     name: { zh: '橄榄菜制作技艺', en: 'Olive Vegetable Making Craftsmanship', 'zh-hant': '橄欖菜製作技藝' },
     desc: { zh: '乌榄芥菜，咸香下饭，潮汕早餐标配与全球潮人舌尖上的乡愁开关。', en: 'Black olives and mustard greens, a breakfast staple and nostalgia trigger on global Chaoshan tongues.', 'zh-hant': '烏欖芥菜，鹹香下飯，潮汕早餐標配與全球潮人舌尖上的鄉愁開關。' },
@@ -931,21 +893,37 @@ window.EXHIBIT_DATA = [
     }
   },
   {
-    id: 'f3-31',
+    id: 'f3-28',
     floor: 3,
-    name: { zh: '潮州古建筑营造技艺', en: 'Chaozhou Ancient Architecture Construction Craftsmanship', 'zh-hant': '潮州古建築營造技藝' },
-    desc: { zh: '四点金厝，五行山墙，潮汕宗族伦理与风水智慧的立体空间教科书。', en: 'Four-Point Gold houses and Five-Element gables, a 3D textbook of Chaoshan clan ethics and feng shui wisdom.', 'zh-hant': '四點金厝，五行山牆，潮汕宗族倫理與風水智慧的立體空間教科書。' },
-    level: { zh: '国家级', en: 'National', 'zh-hant': '國家級' },
-    region: { zh: '潮州市/汕头市', en: 'Chaozhou/Shantou', 'zh-hant': '潮州市/汕頭市' },
-    image: 'images/f3/gujianzhu.jpg',
-    detail: {
-      zh: '潮州古建筑营造技艺是国家级非物质文化遗产，涵盖选址、布局、木作、石作、灰塑、嵌瓷、壁画等完整体系，是潮汕传统民居“四点金”“下山虎”及祠堂庙宇的建造总纲。其核心哲学为“天人合一、尊卑有序”：建筑坐向依风水罗盘测定，厅堂高低、房间大小严格对应家族长幼尊卑；装饰题材（木雕、石雕、嵌瓷）皆含教化寓意，如“二十四孝”“渔樵耕读”，使建筑成为“立体的家训”。近代华侨回乡建宅，必请本土匠师按古法施工，同时将南洋元素（如彩色玻璃、瓷砖）融入细节，形成“中西合璧”的独特侨宅风格；海外潮人会馆亦严格按此技艺建造，成为异国街头的“文化飞地”。如今，随着古建筑修缮需求增加，该技艺重获重视；传承人姚伯齐等建立营造法式数据库，并培训青年匠人；汕头小公园、潮州古城修复工程成为活态传承基地，让这门承载着宗族伦理与空间智慧的技艺继续塑造潮汕人的精神家园。',
-      en: 'Chaozhou Ancient Architecture Construction Craftsmanship is a National ICH, covering site selection, layout, carpentry, stonework, plastering, porcelain inlay, and murals—the comprehensive framework for Chaoshan traditional residences ("Four-Point Gold", "Descending Tiger") and ancestral halls/temples. Core philosophy is "harmony between heaven and humanity, hierarchical order": orientation determined by feng shui compass; hall heights and room sizes strictly correspond to clan seniority; decorative themes (wood/stone carvings, porcelain inlay) carry educational meanings like Twenty-Four Filial Exemplars, making buildings "3D family teachings". When overseas Chinese returned to build homes, they hired local artisans following ancient methods while integrating Nanyang elements (colored glass, tiles) for unique Sino-Western hybrid styles; overseas association halls were built strictly per this craft as "cultural enclaves" abroad. Today, increased restoration demand has revived the craft; inheritors like Yao Boqi establish construction method databases and train young artisans; Shantou Xiaogongyuan and Chaozhou Ancient City restorations serve as living inheritance bases, allowing this craft carrying clan ethics and spatial wisdom to continue shaping Chaoshan spiritual homelands.',
-      'zh-hant': '潮州古建築營造技藝是國家級非物質文化遺產，涵蓋選址、佈局、木作、石作、灰塑、嵌瓷、壁畫等完整體系，是潮汕傳統民居「四點金」「下山虎」及祠堂廟宇的建造總綱。其核心哲學為「天人合一、尊卑有序」：建築坐向依風水羅盤測定，廳堂高低、房間大小嚴格對應家族長幼尊卑；裝飾題材（木雕、石雕、嵌瓷）皆含教化寓意，如「二十四孝」「漁樵耕讀」，使建築成為「立體的家訓」。近代華僑回鄉建宅，必請本土匠師按古法施工，同時將南洋元素（如彩色玻璃、瓷磚）融入細節，形成「中西合璧」的獨特僑宅風格；海外潮人會館亦嚴格按此技藝建造，成為異國街頭的「文化飛地」。如今，隨著古建築修繕需求增加，該技藝重獲重視；傳承人姚伯齊等建立營造法式資料庫，並培訓青年匠人；汕頭小公園、潮州古城修復工程成為活態傳承基地，讓這門承載著宗族倫理與空間智慧的技藝繼續塑造潮汕人的精神家園。'
+    name: {
+      "zh": "潮汕古建筑技艺",
+      "en": "Chaoshan Ancient Architecture Craftmanship",
+      "zh-hant": "潮汕古建築營造技藝"
+    },
+    "desc": {
+      "zh": "四点金厝，五行山墙，潮汕宗族伦理与风水智慧的立体空间教科书。",
+      "en": "Traditional Chaoshan ancestral house construction craft.",
+      "zh-hant": "四點金厝，五行山牆，潮汕宗族倫理與風水智慧的立體空間教科書。"
+    },
+    "level": {
+      "zh": "国家级",
+      "en": "National",
+      "zh-hant": "國家級"
+    },
+    "region": {
+      "zh": "潮州市/汕头市",
+      "en": "Chaozhou/Shantou",
+      "zh-hant": "潮州市/汕頭市"
+    },
+    "image": "images/f3/gujianzhu.jpg",
+    "detail": {
+      "zh": "四点金、下山虎传统民居全套营造工艺。",
+      "en": "Complete construction for Si Dian Jin folk houses.",
+      "zh-hant": "四點金、下山虎傳統民居全套營造工藝。"
     }
-  },
+},
   {
-    id: 'f3-32',
+    id: 'f3-29',
     floor: 3,
     name: { zh: '潮汕石雕技艺', en: 'Chaoshan Stone Carving Craftsmanship', 'zh-hant': '潮汕石雕技藝' },
     desc: { zh: '青石为纸，铁錾为笔，潮汕古建中与木雕、嵌瓷并称的“石上史诗”。', en: 'Bluestone as paper and chisel as pen, the "epic on stone" alongside woodcarving and porcelain inlay.', 'zh-hant': '青石為紙，鐵鏨為筆，潮汕古建中與木雕、嵌瓷並稱的「石上史詩」。' },
@@ -959,7 +937,7 @@ window.EXHIBIT_DATA = [
     }
   },
   {
-    id: 'f3-33',
+    id: 'f3-30',
     floor: 3,
     name: { 
         zh: '潮菜烹饪技艺', 
