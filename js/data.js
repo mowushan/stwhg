@@ -122,7 +122,7 @@ window.EXHIBIT_DATA = [
     desc: { zh: '潮汕标志性美食，手工捶打的极致口感。', en: 'An iconic Chaoshan delicacy with ultimate texture from hand-pounding.', 'zh-hant': '潮汕標誌性美食，手工捶打的極致口感。' },
     level: { zh: '省级', en: 'Provincial Level', 'zh-hant': '省級' },
     region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
-    image: 'images/f1/niurouwan.jpg',
+    image: 'images/f1/beef-ball.jpg',
     detail: {
       zh: '手打牛肉丸是潮汕标志性美食，选用新鲜牛腿肉，经反复捶打成浆后挤丸煮熟。其口感弹牙爽脆、肉香浓郁，制作过程全靠手工完成，体现了潮汕人对食材本味与极致口感的执着追求。',
       en: 'Hand-beaten Beef Balls are an iconic Chaoshan delicacy made from fresh beef leg meat, repeatedly pounded into a paste before being shaped into balls and boiled. Their springy, crisp texture and rich meaty flavor result from entirely manual preparation, reflecting the Chaoshan people\'s dedication to authentic ingredients and ultimate taste.',
@@ -136,7 +136,7 @@ window.EXHIBIT_DATA = [
     desc: { zh: '澄海传统制鼓技艺，民俗表演不可或缺的乐器。', en: 'A traditional Chenghai drum-making craft, essential for folk performances.', 'zh-hant': '澄海傳統製鼓技藝，民俗表演不可或缺的樂器。' },
     level: { zh: '市级', en: 'Municipal Level', 'zh-hant': '市級' },
     region: { zh: '汕头市', en: 'Shantou', 'zh-hant': '汕頭市' },
-    image: 'images/f1/donggougu.jpg',
+    image: 'images/f1/donggou-drum.jpg',
     detail: {
       zh: '东沟鼓产自澄海东沟村，以杉木为鼓身、水牛皮为鼓面，经选料、刨板、蒙皮、上漆等十余道工序制成。其音色浑厚洪亮、经久耐用，是潮汕英歌舞、锣鼓队等传统民俗表演不可或缺的乐器。',
       en: 'Donggou Drums are produced in Donggou Village, Chenghai, featuring a fir wood body and buffalo hide drumhead crafted through over ten processes including material selection, planing, skin stretching, and lacquering. Their deep, resonant tone and durability make them indispensable instruments for traditional Chaoshan folk performances like Yingge Dance.',
